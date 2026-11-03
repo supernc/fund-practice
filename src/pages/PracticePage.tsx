@@ -1,4 +1,5 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
+import { Question } from '../types';
 import usePractice from '../hooks/usePractice';
 import { chapters } from '../data/chapters';
 import { getQuestionsByChapter, getQuestionsBySubChapter } from '../data';
@@ -12,6 +13,8 @@ export default function PracticePage() {
   const [selectedChapter, setSelectedChapter] = useState<number | null>(null);
   const [selectedSub, setSelectedSub] = useState<string | null>(null);
   const [expandedChapters, setExpandedChapters] = useState<Set<number>>(new Set());
+  const [trainingKind, setTrainingKind] = useState<'all' | 'standalone' | 'composite'>('all');
+  const filterQuestions = (qs: Question[], kind = trainingKind) => kind === 'all' ? qs : qs.filter(q => q.trainingKind === kind);
 
   const toggleExpand = (chId: number) => {
     setExpandedChapters(prev => {
@@ -26,14 +29,14 @@ export default function PracticePage() {
     setSelectedChapter(chId);
     setSelectedSub(null);
     const qs = getQuestionsByChapter(chId);
-    practice.setQuestions(qs);
+    practice.setQuestions(filterQuestions(qs));
   };
 
   const selectSubChapter = (subId: string, chId: number) => {
     setSelectedChapter(chId);
     setSelectedSub(subId);
     const qs = getQuestionsBySubChapter(subId);
-    practice.setQuestions(qs);
+    practice.setQuestions(filterQuestions(qs));
   };
 
   const handleSubmit = () => {
@@ -56,6 +59,19 @@ export default function PracticePage() {
       <div className="w-64 flex-shrink-0">
         <div className="card-glow rounded-xl bg-bg-secondary p-4 sticky top-24">
           <h3 className="text-sm font-semibold text-text-primary mb-4">章节选择</h3>
+          <label className="block text-xs text-text-secondary mb-3">
+            题目类别
+            <select value={trainingKind} onChange={e => {
+              const kind = e.target.value as typeof trainingKind;
+              setTrainingKind(kind);
+              if (selectedSub) practice.setQuestions(filterQuestions(getQuestionsBySubChapter(selectedSub), kind));
+              else if (selectedChapter) practice.setQuestions(filterQuestions(getQuestionsByChapter(selectedChapter), kind));
+            }} className="block w-full mt-1 rounded-lg bg-bg-card border border-white/10 p-2 text-text-primary">
+              <option value="all">全部题目</option>
+              <option value="standalone">普通与情景题</option>
+              <option value="composite">综合辨析题</option>
+            </select>
+          </label>
           <div className="space-y-1">
             {chapters.map(ch => (
               <div key={ch.id}>

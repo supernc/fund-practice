@@ -41,6 +41,7 @@ export default function ExamPage() {
           </div>
           <h2 className="text-2xl font-bold gradient-text mb-2">基金从业 · 随机自测</h2>
           <p className="text-text-secondary mb-8">从原创模拟题中抽取 100 题，检验备考水平</p>
+          <p className="text-xs text-text-muted mb-5">全部题目均可日常练习，不设模考预留题。常规每卷75道普通与情景题、25道组合辨析题，避免同一基础问答在卷内重复出现；这不是官方题型比例。</p>
 
           <div className="grid grid-cols-3 gap-4 mb-6">
             <div className="bg-bg-card rounded-xl p-4">

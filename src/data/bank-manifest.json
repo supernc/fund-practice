@@ -1,12 +1,12 @@
 {
-  "version": "2026.11.03",
+  "version": "2026.11.03.2",
   "reviewedAt": "2026-11-03",
   "subjects": {
-    "1": 127,
-    "3": 136
+    "1": 1000,
+    "3": 800
   },
   "retiredLegacyQuestions": 985,
-  "scope": "当前默认题库为2026大纲原创模拟题；新规题逐题附生效规则，基础概念题附官方大纲或投教依据。非官方题库，未经官方审定。",
+  "scope": "2026大纲模拟题：普通单选、情景应用、计算题和多考点组合辨析。1800为题目数，不代表1800个独立知识点。全部开放练习及随机模考，不预留题目。",
   "changes": [
     {
       "id": "k1-0690",
@@ -114,6 +114,73 @@
       "id": "registration",
       "title": "基金业协会资格注册服务指南",
       "url": "https://www.amac.org.cn/fwdt/wyb/rygl/cyryzggl/zgglfwzn/"
+    },
+    {
+      "id": "private",
+      "title": "私募投资基金监督管理条例",
+      "url": "https://www.mee.gov.cn/zcwj/gwywj/202307/t20230710_1035724.shtml"
+    },
+    {
+      "id": "suitability",
+      "title": "证券期货投资者适当性管理办法（2022修正）",
+      "url": "https://www.csrc.gov.cn/csrc/c101953/c5359211/5359211/files/%E9%99%84%E4%BB%B61.1%EF%BC%9A%E4%B8%AD%E5%9B%BD%E8%AF%81%E7%9B%91%E4%BC%9A%E5%86%B3%E5%AE%9A%E4%BF%AE%E6%94%B9%E7%9A%84%E8%A7%84%E7%AB%A0.pdf"
+    },
+    {
+      "id": "sales",
+      "title": "公开募集证券投资基金销售机构监督管理办法",
+      "url": "https://www.csrc.gov.cn/csrc/c106256/c1653806/content.shtml"
+    },
+    {
+      "id": "valuation",
+      "title": "私募投资基金非上市股权投资估值指引",
+      "url": "https://www.amac.org.cn/businessservices_2025/trusteeshipbusiness_2912/tgfwgzglgj/tgfwtzyj/202105/P020210727701551843577.pdf"
+    }
+  ],
+  "expansion": {
+    "1": {
+      "standalone": 195,
+      "composite": 805,
+      "chapters": [
+        100,
+        120,
+        90,
+        180,
+        260,
+        100,
+        100,
+        50
+      ],
+      "componentGroupDuplicates": 0
+    },
+    "3": {
+      "standalone": 245,
+      "composite": 555,
+      "chapters": [
+        65,
+        90,
+        100,
+        110,
+        150,
+        70,
+        70,
+        50,
+        95
+      ],
+      "componentGroupDuplicates": 0
+    }
+  },
+  "publicStudyReferences": [
+    {
+      "title": "233网校：公开模拟题目录（题型与考点参考）",
+      "url": "https://www.233.com/jjcy/moniti/index02.html"
+    },
+    {
+      "title": "233网校：股权估值应用公开例题（题型参考）",
+      "url": "https://www.233.com/jjcy/smgq/moniti/202603/23152914863148.html"
+    },
+    {
+      "title": "考试100：公开基金章节目录（覆盖范围参考）",
+      "url": "https://www.kaoshi100.cn/ks100/tiku/8502/850202.html"
     }
   ]
 }

@@ -22,6 +22,8 @@ export interface Question {
   reviewScope?: string;
   bankVersion?: string;
   sources?: { title: string; url: string; locator: string }[];
+  trainingKind?: 'standalone' | 'composite';
+  components?: { seedId: string; proposedLabel: string; proposedAnswer: string; isCorrect: boolean }[];
 }
 
 // 考试记录

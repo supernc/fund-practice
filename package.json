@@ -5,9 +5,12 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npm run validate:bank && tsc -b && vite build",
+    "build": "npm run validate:bank && npm run test:calculations && npm run test:exam && tsc -b && vite build",
     "preview": "vite preview",
-    "validate:bank": "node scripts/validate-bank.mjs"
+    "validate:bank": "node scripts/validate-bank.mjs",
+    "generate:bank": "node scripts/expand-bank.mjs",
+    "test:exam": "node scripts/test-exam.mjs",
+    "test:calculations": "node scripts/test-calculations.mjs"
   },
   "dependencies": {
     "lucide-react": "^0.460.0",

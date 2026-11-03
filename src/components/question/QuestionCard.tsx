@@ -83,7 +83,7 @@ export default function QuestionCard({
             {index + 1}/{total}
           </span>
           <Badge variant={isMultiple ? 'warning' : 'info'} size="md">
-            {isMultiple ? '多选' : '单选'}
+            {isMultiple ? '多选' : question.trainingKind === 'composite' ? '组合单选' : '单选'}
           </Badge>
           {isCalc && (
             <Badge variant="primary" size="md" className="gap-1">

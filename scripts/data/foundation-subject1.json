@@ -1,0 +1,6152 @@
+[
+  {
+    "id": "v20261103-k1-0001",
+    "stem": "企业首次发行债券并取得资金，主要发生在哪类市场？",
+    "options": [
+      {
+        "label": "A",
+        "text": "一级市场"
+      },
+      {
+        "label": "B",
+        "text": "外汇市场"
+      },
+      {
+        "label": "C",
+        "text": "保险市场"
+      },
+      {
+        "label": "D",
+        "text": "二级市场"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-1",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "一级市场承担新发行金融工具的融资功能；二级市场主要承担已发行工具的流通交易。",
+    "difficulty": 1,
+    "syllabusCode": "1.1.a—1.2.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "1.1.b 金融市场分类"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0002",
+    "stem": "投资者之间买卖已经发行的股票，属于哪类活动？",
+    "options": [
+      {
+        "label": "A",
+        "text": "二级市场交易"
+      },
+      {
+        "label": "B",
+        "text": "财政转移支付"
+      },
+      {
+        "label": "C",
+        "text": "发行人首次融资"
+      },
+      {
+        "label": "D",
+        "text": "银行吸收存款"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-1",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "发行人不是这笔买卖的直接融资方，交易属于证券流通市场。",
+    "difficulty": 1,
+    "syllabusCode": "1.1.a—1.2.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "1.1.b 金融市场分类"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0003",
+    "stem": "以一年以内短期资金融通为主要功能的市场通常称为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "黄金市场"
+      },
+      {
+        "label": "B",
+        "text": "产权市场"
+      },
+      {
+        "label": "C",
+        "text": "资本市场"
+      },
+      {
+        "label": "D",
+        "text": "货币市场"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-1",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "货币市场主要服务短期资金需求，资本市场主要服务中长期融资。",
+    "difficulty": 1,
+    "syllabusCode": "1.1.a—1.2.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "1.1.b 金融市场分类"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0004",
+    "stem": "同一证券在连续交易中形成市场价格，主要体现什么功能？",
+    "options": [
+      {
+        "label": "A",
+        "text": "信用担保"
+      },
+      {
+        "label": "B",
+        "text": "存款保险"
+      },
+      {
+        "label": "C",
+        "text": "价格发现"
+      },
+      {
+        "label": "D",
+        "text": "财政再分配"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-1",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "交易形成的价格反映供求和信息，属于价格发现功能。",
+    "difficulty": 1,
+    "syllabusCode": "1.1.a—1.2.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "1.1.c 金融市场功能"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0005",
+    "stem": "投资者可通过交易将证券换成现金，主要体现市场的什么功能？",
+    "options": [
+      {
+        "label": "A",
+        "text": "保证盈利"
+      },
+      {
+        "label": "B",
+        "text": "豁免税款"
+      },
+      {
+        "label": "C",
+        "text": "提供流动性"
+      },
+      {
+        "label": "D",
+        "text": "固定发行价格"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-1",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "可交易性有助于变现，但不保证能以原价出售。",
+    "difficulty": 1,
+    "syllabusCode": "1.1.a—1.2.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "1.1.c 金融市场功能"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0006",
+    "stem": "储蓄通过金融市场流向有融资需求的企业，主要体现什么功能？",
+    "options": [
+      {
+        "label": "A",
+        "text": "替代企业治理"
+      },
+      {
+        "label": "B",
+        "text": "消除经营风险"
+      },
+      {
+        "label": "C",
+        "text": "资金融通和资源配置"
+      },
+      {
+        "label": "D",
+        "text": "保证项目偿债"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-1",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "金融市场连接资金供给者与需求者，促进资本配置。",
+    "difficulty": 1,
+    "syllabusCode": "1.1.a—1.2.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "1.1.c 金融市场功能"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0007",
+    "stem": "投资者、发行人和交易中介在金融市场构成中主要属于？",
+    "options": [
+      {
+        "label": "A",
+        "text": "结算币种"
+      },
+      {
+        "label": "B",
+        "text": "交易价格"
+      },
+      {
+        "label": "C",
+        "text": "交易标的本身"
+      },
+      {
+        "label": "D",
+        "text": "市场参与主体"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-1",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "主体是参与金融交易的个人、机构及相关中介。",
+    "difficulty": 1,
+    "syllabusCode": "1.1.a—1.2.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "1.1.a 金融市场要素"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0008",
+    "stem": "资产管理机构与投资者的典型关系是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "无条件保证委托人收益"
+      },
+      {
+        "label": "B",
+        "text": "基于约定接受委托管理财产"
+      },
+      {
+        "label": "C",
+        "text": "将投资者资金当然纳入自有资本"
+      },
+      {
+        "label": "D",
+        "text": "取代投资者承担全部损失"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-1",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "资产管理具有受托属性，投资责任与收益风险应依据法律和合同安排。",
+    "difficulty": 1,
+    "syllabusCode": "1.1.a—1.2.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "1.2.a 资产管理"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0009",
+    "stem": "长期公司债券与短期融资工具的分类，主要依据是什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "交易软件类型"
+      },
+      {
+        "label": "B",
+        "text": "投资者开户时间"
+      },
+      {
+        "label": "C",
+        "text": "发行人名称长短"
+      },
+      {
+        "label": "D",
+        "text": "融资期限"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-1",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "融资期限是区分货币市场和资本市场的重要维度。",
+    "difficulty": 1,
+    "syllabusCode": "1.1.a—1.2.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "1.1.b 金融市场分类"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0010",
+    "stem": "某投资者用多种资产构建组合分散风险。正确理解是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "资产数量增加必然提高收益"
+      },
+      {
+        "label": "B",
+        "text": "持有两种资产即可免受市场波动影响"
+      },
+      {
+        "label": "C",
+        "text": "组合中资产再多也不会改变风险"
+      },
+      {
+        "label": "D",
+        "text": "分散化可能降低部分风险，但不能消除所有风险"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-1",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "分散化与资产相关性有关，系统性风险仍可能存在。",
+    "difficulty": 2,
+    "syllabusCode": "1.1.a—1.2.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "1.1.c 金融市场功能"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0011",
+    "stem": "交易所市场与场外市场的主要区分维度是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "证券发行年份"
+      },
+      {
+        "label": "B",
+        "text": "基金收费金额"
+      },
+      {
+        "label": "C",
+        "text": "投资者年龄"
+      },
+      {
+        "label": "D",
+        "text": "交易组织方式和场所安排"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-1",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "按交易组织和场所安排可以区分场内与场外交易。",
+    "difficulty": 1,
+    "syllabusCode": "1.1.a—1.2.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "1.1.b 金融市场分类"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0012",
+    "stem": "对受托资产进行管理时，应优先依据什么确定可投资范围？",
+    "options": [
+      {
+        "label": "A",
+        "text": "销售人员的口头收益承诺"
+      },
+      {
+        "label": "B",
+        "text": "适用规则与资产管理合同"
+      },
+      {
+        "label": "C",
+        "text": "其他客户的临时要求"
+      },
+      {
+        "label": "D",
+        "text": "管理人股东的个人偏好"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-1",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "投资范围受合同与适用法规约束，不能由无关主体任意改变。",
+    "difficulty": 1,
+    "syllabusCode": "1.1.a—1.2.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "1.2.a 资产管理"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0013",
+    "stem": "按基金的运作方式分类，以下哪组属于同一分类维度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "契约型基金与指数基金"
+      },
+      {
+        "label": "B",
+        "text": "开放式基金与封闭式基金"
+      },
+      {
+        "label": "C",
+        "text": "股票基金与公司型基金"
+      },
+      {
+        "label": "D",
+        "text": "私募基金与债券基金"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-2",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "开放式与封闭式按运作方式划分，其余选项混用了不同维度。",
+    "difficulty": 1,
+    "syllabusCode": "2.1.a—2.2.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "证监会：如何对基金产品进行分类",
+        "url": "https://www.csrc.gov.cn/guangdong/c105589/c31725464ec11439cadd8e6496673031f/content.shtml",
+        "locator": "基金分类"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "2.1.a—2.2.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0014",
+    "stem": "按主要投资对象分类，以下哪组属于同一维度？",
+    "options": [
+      {
+        "label": "A",
+        "text": "股票基金、债券基金、货币市场基金"
+      },
+      {
+        "label": "B",
+        "text": "公募基金、股票基金、公司型基金"
+      },
+      {
+        "label": "C",
+        "text": "开放式基金、契约型基金、私募基金"
+      },
+      {
+        "label": "D",
+        "text": "公司型基金、指数基金、封闭式基金"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-2",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "投资对象、运作方式、组织形式和募集方式不能混为同一分类标准。",
+    "difficulty": 1,
+    "syllabusCode": "2.1.a—2.2.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "证监会：如何对基金产品进行分类",
+        "url": "https://www.csrc.gov.cn/guangdong/c105589/c31725464ec11439cadd8e6496673031f/content.shtml",
+        "locator": "基金分类"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "2.1.a—2.2.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0015",
+    "stem": "开放式基金份额的典型特点是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "基金份额价格不受资产价值变化影响"
+      },
+      {
+        "label": "B",
+        "text": "按约定可以申购赎回，份额数量可变化"
+      },
+      {
+        "label": "C",
+        "text": "投资者只能等待基金清算"
+      },
+      {
+        "label": "D",
+        "text": "基金份额在整个存续期必须固定"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-2",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "开放式基金的份额总数可随申购赎回变化，具体开放安排依基金合同。",
+    "difficulty": 1,
+    "syllabusCode": "2.1.a—2.2.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "证监会：如何对基金产品进行分类",
+        "url": "https://www.csrc.gov.cn/guangdong/c105589/c31725464ec11439cadd8e6496673031f/content.shtml",
+        "locator": "基金分类"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "2.1.a—2.2.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0016",
+    "stem": "封闭式基金在合同期限内的典型安排是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "基金禁止任何形式的份额转让"
+      },
+      {
+        "label": "B",
+        "text": "投资者可每日向基金按面值赎回"
+      },
+      {
+        "label": "C",
+        "text": "份额固定，通常不能向基金申请赎回"
+      },
+      {
+        "label": "D",
+        "text": "基金不承担任何市场风险"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-2",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "封闭式不等于不能依法在二级市场转让，须区分转让与赎回。",
+    "difficulty": 1,
+    "syllabusCode": "2.1.a—2.2.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "证监会：如何对基金产品进行分类",
+        "url": "https://www.csrc.gov.cn/guangdong/c105589/c31725464ec11439cadd8e6496673031f/content.shtml",
+        "locator": "基金分类"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "2.1.a—2.2.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0017",
+    "stem": "以跟踪特定指数表现为主要目标的基金通常属于？",
+    "options": [
+      {
+        "label": "A",
+        "text": "融资租赁计划"
+      },
+      {
+        "label": "B",
+        "text": "保本存款"
+      },
+      {
+        "label": "C",
+        "text": "信贷资产证券化基础资产"
+      },
+      {
+        "label": "D",
+        "text": "指数基金"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-2",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "指数基金通常运用被动投资思路跟踪目标指数，仍存在跟踪误差和市场风险。",
+    "difficulty": 1,
+    "syllabusCode": "2.1.a—2.2.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "证监会：如何对基金产品进行分类",
+        "url": "https://www.csrc.gov.cn/guangdong/c105589/c31725464ec11439cadd8e6496673031f/content.shtml",
+        "locator": "基金分类"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "2.1.a—2.2.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0018",
+    "stem": "股票型基金与债券型基金，主要依据什么区别？",
+    "options": [
+      {
+        "label": "A",
+        "text": "管理人办公城市"
+      },
+      {
+        "label": "B",
+        "text": "投资资产的类别和比例"
+      },
+      {
+        "label": "C",
+        "text": "投资者开户渠道"
+      },
+      {
+        "label": "D",
+        "text": "基金名称字数"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-2",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "基金分类取决于合同和规则规定的资产配置，不能只凭名称判断。",
+    "difficulty": 1,
+    "syllabusCode": "2.1.a—2.2.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "证监会：如何对基金产品进行分类",
+        "url": "https://www.csrc.gov.cn/guangdong/c105589/c31725464ec11439cadd8e6496673031f/content.shtml",
+        "locator": "基金分类"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "2.1.a—2.2.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0019",
+    "stem": "混合型基金的主要特征是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "只能投资其他基金份额"
+      },
+      {
+        "label": "B",
+        "text": "可按合同在股票、债券等资产之间配置"
+      },
+      {
+        "label": "C",
+        "text": "资产只能全部投资股票"
+      },
+      {
+        "label": "D",
+        "text": "资产只能全部投资债券"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-2",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "混合型基金可在多类资产间配置，具体比例依合同与规则。",
+    "difficulty": 1,
+    "syllabusCode": "2.1.a—2.2.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "证监会：如何对基金产品进行分类",
+        "url": "https://www.csrc.gov.cn/guangdong/c105589/c31725464ec11439cadd8e6496673031f/content.shtml",
+        "locator": "基金分类"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "2.1.a—2.2.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0020",
+    "stem": "按募集方式划分，基金可以分为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "公募基金与私募基金"
+      },
+      {
+        "label": "B",
+        "text": "契约型基金与公司型基金"
+      },
+      {
+        "label": "C",
+        "text": "开放式基金与封闭式基金"
+      },
+      {
+        "label": "D",
+        "text": "股票基金与债券基金"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-2",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "募集方式对应公募与私募；其他选项分别对应运作、资产类别和组织形式。",
+    "difficulty": 1,
+    "syllabusCode": "2.1.a—2.2.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "证监会：如何对基金产品进行分类",
+        "url": "https://www.csrc.gov.cn/guangdong/c105589/c31725464ec11439cadd8e6496673031f/content.shtml",
+        "locator": "基金分类"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "2.1.a—2.2.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0021",
+    "stem": "基金份额持有人投资公募基金后，一般按什么享受收益、承担风险？",
+    "options": [
+      {
+        "label": "A",
+        "text": "管理人承诺的固定利率"
+      },
+      {
+        "label": "B",
+        "text": "所持基金份额"
+      },
+      {
+        "label": "C",
+        "text": "托管银行存款规模"
+      },
+      {
+        "label": "D",
+        "text": "购买渠道的注册资本"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-2",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "基金份额代表相应权益，投资收益和损失由持有人依法承担。",
+    "difficulty": 1,
+    "syllabusCode": "2.1.b—2.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "中华人民共和国证券投资基金法",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_f70635e95c74402c878c9f9a0a362c16.html",
+        "locator": "第3条、第6—8条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "2.1.b—2.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0022",
+    "stem": "基金管理人破产时，基金财产原则上应如何处理？",
+    "options": [
+      {
+        "label": "A",
+        "text": "保持独立，不当然纳入其清算财产"
+      },
+      {
+        "label": "B",
+        "text": "先用于偿付管理人股东"
+      },
+      {
+        "label": "C",
+        "text": "由销售人员自行分配"
+      },
+      {
+        "label": "D",
+        "text": "全部作为管理人的普通财产"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-2",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "基金财产与管理人、托管人的固有财产相互独立。",
+    "difficulty": 1,
+    "syllabusCode": "2.1.b—2.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "中华人民共和国证券投资基金法",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_f70635e95c74402c878c9f9a0a362c16.html",
+        "locator": "第3条、第5条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "2.1.b—2.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0023",
+    "stem": "不同基金财产之间的债权债务，能否当然相互抵销？",
+    "options": [
+      {
+        "label": "A",
+        "text": "不能以不同基金财产之间债权债务相互抵销"
+      },
+      {
+        "label": "B",
+        "text": "只要托管人相同就可以"
+      },
+      {
+        "label": "C",
+        "text": "只要管理人相同就可以"
+      },
+      {
+        "label": "D",
+        "text": "由某一基金经理口头同意即可"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-2",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "基金财产独立要求不同基金之间保持隔离。",
+    "difficulty": 1,
+    "syllabusCode": "2.1.b—2.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "中华人民共和国证券投资基金法",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_f70635e95c74402c878c9f9a0a362c16.html",
+        "locator": "第6条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "2.1.b—2.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0024",
+    "stem": "基金管理人与托管人的职责分工，哪项更准确？",
+    "options": [
+      {
+        "label": "A",
+        "text": "管理人管理运用，托管人保管并依法监督"
+      },
+      {
+        "label": "B",
+        "text": "两者都负责向投资者保证本金"
+      },
+      {
+        "label": "C",
+        "text": "托管人独立决定全部投资"
+      },
+      {
+        "label": "D",
+        "text": "管理人可以代托管人保管所有资产"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-2",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "管理与托管分工形成相互制衡，不意味着托管人担保收益。",
+    "difficulty": 1,
+    "syllabusCode": "2.1.b—2.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "中华人民共和国证券投资基金法",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_f70635e95c74402c878c9f9a0a362c16.html",
+        "locator": "第19条、第36条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "2.1.b—2.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0025",
+    "stem": "基金份额持有人依法享有的权利包括？",
+    "options": [
+      {
+        "label": "A",
+        "text": "随时要求管理人补足投资亏损"
+      },
+      {
+        "label": "B",
+        "text": "直接挪用其他基金资产"
+      },
+      {
+        "label": "C",
+        "text": "不受规则限制改变基金投资范围"
+      },
+      {
+        "label": "D",
+        "text": "按规定参与基金份额持有人大会"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-2",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "持有人依法享有收益分配、剩余财产分配及相应治理等权利。",
+    "difficulty": 1,
+    "syllabusCode": "2.1.b—2.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "中华人民共和国证券投资基金法",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_f70635e95c74402c878c9f9a0a362c16.html",
+        "locator": "第46条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "2.1.b—2.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0026",
+    "stem": "基金持有人与银行储户的风险承担差异，哪项准确？",
+    "options": [
+      {
+        "label": "A",
+        "text": "基金投资损失均由托管银行补偿"
+      },
+      {
+        "label": "B",
+        "text": "基金份额等同受保险保障的存款"
+      },
+      {
+        "label": "C",
+        "text": "基金投资通常随基金资产价值变化承担损益"
+      },
+      {
+        "label": "D",
+        "text": "基金管理人必须兑付本金"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-2",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "基金投资和存款法律关系不同，不能把托管理解为本金担保。",
+    "difficulty": 1,
+    "syllabusCode": "2.1.b—2.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "中华人民共和国证券投资基金法",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_f70635e95c74402c878c9f9a0a362c16.html",
+        "locator": "第3条、第5条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "2.1.b—2.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0027",
+    "stem": "国务院制定的《私募投资基金监督管理条例》在规范体系中属于？",
+    "options": [
+      {
+        "label": "A",
+        "text": "行政法规"
+      },
+      {
+        "label": "B",
+        "text": "基金合同"
+      },
+      {
+        "label": "C",
+        "text": "部门内部操作手册"
+      },
+      {
+        "label": "D",
+        "text": "行业自律规则"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-3",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "国务院制定的条例属于行政法规；规范制定主体决定其层级。",
+    "difficulty": 1,
+    "syllabusCode": "3.1.a—3.3.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "3.1.a 法规层级"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0028",
+    "stem": "中国证券投资基金业协会发布的业务自律规则通常属于？",
+    "options": [
+      {
+        "label": "A",
+        "text": "行业自律规范"
+      },
+      {
+        "label": "B",
+        "text": "国务院行政法规"
+      },
+      {
+        "label": "C",
+        "text": "人民法院判决"
+      },
+      {
+        "label": "D",
+        "text": "全国人大制定的法律"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-3",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "协会自律规则约束相关会员、机构与人员，但层级不等同法律或行政法规。",
+    "difficulty": 1,
+    "syllabusCode": "3.1.a—3.3.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "3.1.a 法规层级"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0029",
+    "stem": "某基金合同约定与法律强制性规定冲突，应怎样理解？",
+    "options": [
+      {
+        "label": "A",
+        "text": "只要销售成功即可生效"
+      },
+      {
+        "label": "B",
+        "text": "有双方签字即可优先于法律"
+      },
+      {
+        "label": "C",
+        "text": "由托管人单方决定适用法律与否"
+      },
+      {
+        "label": "D",
+        "text": "不能以合同约定排除强制性规定"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-3",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "合同必须遵守法律法规的强制性规定。",
+    "difficulty": 2,
+    "syllabusCode": "3.1.a—3.3.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "3.1.a 法规适用"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0030",
+    "stem": "基金监管的重要目标是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "让基金价格固定不变"
+      },
+      {
+        "label": "B",
+        "text": "代替管理人选择全部证券"
+      },
+      {
+        "label": "C",
+        "text": "保护投资者合法权益、维护市场秩序"
+      },
+      {
+        "label": "D",
+        "text": "保证每只基金获得正收益"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-3",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "监管维护公平和秩序，不承担投资收益担保职能。",
+    "difficulty": 1,
+    "syllabusCode": "3.1.a—3.3.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "3.2.a 监管目标"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0031",
+    "stem": "对风险相近的业务设置相称的监管要求，主要体现？",
+    "options": [
+      {
+        "label": "A",
+        "text": "完全取消市场约束"
+      },
+      {
+        "label": "B",
+        "text": "审慎监管和风险导向"
+      },
+      {
+        "label": "C",
+        "text": "保证投资收益"
+      },
+      {
+        "label": "D",
+        "text": "只看机构规模"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-3",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "审慎监管关注实际风险并采取相应措施。",
+    "difficulty": 1,
+    "syllabusCode": "3.1.a—3.3.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "3.2.a 监管原则"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0032",
+    "stem": "中国证券投资基金业协会的性质是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "司法机关"
+      },
+      {
+        "label": "B",
+        "text": "基金收益保险机构"
+      },
+      {
+        "label": "C",
+        "text": "基金行业自律组织"
+      },
+      {
+        "label": "D",
+        "text": "商业银行的分支机构"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-3",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "协会开展行业自律，与行政监管各有职责。",
+    "difficulty": 1,
+    "syllabusCode": "3.1.a—3.3.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "3.3.a 行业自律"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0033",
+    "stem": "对基金行业依法实施行政监管的主要机构是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "基金销售平台客服中心"
+      },
+      {
+        "label": "B",
+        "text": "会计师事务所"
+      },
+      {
+        "label": "C",
+        "text": "基金投资咨询群管理员"
+      },
+      {
+        "label": "D",
+        "text": "中国证监会及其派出机构"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-3",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "证监会及派出机构依法履行相应监管职责。",
+    "difficulty": 1,
+    "syllabusCode": "3.1.a—3.3.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "3.2.b 监管职责"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0034",
+    "stem": "反洗钱监管与基金行业监管之间的关系，哪项准确？",
+    "options": [
+      {
+        "label": "A",
+        "text": "履行基金监管要求即可免除反洗钱义务"
+      },
+      {
+        "label": "B",
+        "text": "加入协会即可免除行政监管"
+      },
+      {
+        "label": "C",
+        "text": "基金合同可以取消所有监管义务"
+      },
+      {
+        "label": "D",
+        "text": "不同监管职责可以同时适用于同一机构"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-3",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "基金机构可能同时承担多类法定义务。",
+    "difficulty": 1,
+    "syllabusCode": "3.1.a—3.3.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "3.2.c 监管职责"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0035",
+    "stem": "行业协会发布征求意见稿后，备考应如何处理？",
+    "options": [
+      {
+        "label": "A",
+        "text": "立即将全部意见稿条款当作现行规定"
+      },
+      {
+        "label": "B",
+        "text": "仅依据网页发布日期判断是否生效"
+      },
+      {
+        "label": "C",
+        "text": "无需核对最终发布版本"
+      },
+      {
+        "label": "D",
+        "text": "区分征求意见稿与已生效正式规则"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-3",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "征求意见稿不是当然生效的正式规范，应核对效力状态及生效时间。",
+    "difficulty": 1,
+    "syllabusCode": "3.1.a—3.3.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "3.1.a 法规适用"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0036",
+    "stem": "旧题依据的规则已明确废止，应如何处理？",
+    "options": [
+      {
+        "label": "A",
+        "text": "只修改解析第一句话"
+      },
+      {
+        "label": "B",
+        "text": "仅将题目年份改成2026"
+      },
+      {
+        "label": "C",
+        "text": "保留答案并删除出处"
+      },
+      {
+        "label": "D",
+        "text": "按现行规则重新核对题干、选项及答案"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-3",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "规则变化可能同时影响题干和答案，不能靠更改年份更新题目。",
+    "difficulty": 1,
+    "syllabusCode": "3.1.a—3.3.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "3.1.a 法规适用"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0037",
+    "stem": "托管人应如何保管所托管的不同基金财产？",
+    "options": [
+      {
+        "label": "A",
+        "text": "统一归入托管人自有资产"
+      },
+      {
+        "label": "B",
+        "text": "与固有财产及其他受托财产分别保管"
+      },
+      {
+        "label": "C",
+        "text": "只要属于同一管理人就可混同"
+      },
+      {
+        "label": "D",
+        "text": "由管理人股东任意使用"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "托管须保证各类财产独立和完整。",
+    "difficulty": 1,
+    "syllabusCode": "4.1.c、4.3.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "证券投资基金托管业务管理办法",
+        "url": "https://www.csrc.gov.cn/csrc/c106256/c1653705/content.shtml",
+        "locator": "第27条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.1.c、4.3.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0038",
+    "stem": "托管人可否将托管业务以承包或转委托方式整体交给其他机构？",
+    "options": [
+      {
+        "label": "A",
+        "text": "托管人可以完全转移法定责任"
+      },
+      {
+        "label": "B",
+        "text": "不得以此方式开展基金托管业务"
+      },
+      {
+        "label": "C",
+        "text": "经某一投资者口头同意即可"
+      },
+      {
+        "label": "D",
+        "text": "只要降低成本即可"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "托管业务要求集中统一管理，不能通过承包、转委托规避职责。",
+    "difficulty": 1,
+    "syllabusCode": "4.1.c、4.3.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "证券投资基金托管业务管理办法",
+        "url": "https://www.csrc.gov.cn/csrc/c106256/c1653705/content.shtml",
+        "locator": "第24条、第26条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.1.c、4.3.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0039",
+    "stem": "托管人发现尚未执行的投资指令违法，应怎样处理？",
+    "options": [
+      {
+        "label": "A",
+        "text": "只向销售机构口头说明"
+      },
+      {
+        "label": "B",
+        "text": "先执行再不留痕修改"
+      },
+      {
+        "label": "C",
+        "text": "依法拒绝执行、通知并按规定报告"
+      },
+      {
+        "label": "D",
+        "text": "直接替管理人作另一笔投资"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "托管监督应依法履行，不能把发现的违法指令直接执行。",
+    "difficulty": 1,
+    "syllabusCode": "4.1.c、4.3.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "证券投资基金托管业务管理办法",
+        "url": "https://www.csrc.gov.cn/csrc/c106256/c1653705/content.shtml",
+        "locator": "托管监督职责"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.1.c、4.3.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0040",
+    "stem": "托管费的计提方式和计算方法应在哪里明确？",
+    "options": [
+      {
+        "label": "A",
+        "text": "基金合同、托管协议和招募说明书等文件"
+      },
+      {
+        "label": "B",
+        "text": "仅向最大持有人说明"
+      },
+      {
+        "label": "C",
+        "text": "在清算后首次告知所有持有人"
+      },
+      {
+        "label": "D",
+        "text": "只在托管人内部口头约定"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "费用规则应在相应法律文件中明确列示。",
+    "difficulty": 1,
+    "syllabusCode": "4.1.c、4.3.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "证券投资基金托管业务管理办法",
+        "url": "https://www.csrc.gov.cn/csrc/c106256/c1653705/content.shtml",
+        "locator": "第27条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.1.c、4.3.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0041",
+    "stem": "通过基金从业考试后，要取得执业所需注册资格，一般应通过谁办理？",
+    "options": [
+      {
+        "label": "A",
+        "text": "任意培训机构"
+      },
+      {
+        "label": "B",
+        "text": "所任职机构"
+      },
+      {
+        "label": "C",
+        "text": "任意基金投资者"
+      },
+      {
+        "label": "D",
+        "text": "个人自行注册即可取代机构审核"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "考试成绩与机构办理的从业资格注册应区分。",
+    "difficulty": 1,
+    "syllabusCode": "4.5.a—4.5.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "基金业协会资格注册服务指南",
+        "url": "https://www.amac.org.cn/fwdt/wyb/rygl/cyryzggl/zgglfwzn/",
+        "locator": "从业资格注册"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.5.a—4.5.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0042",
+    "stem": "拟从事公募基金管理业务，通常应通过哪一考试组合？",
+    "options": [
+      {
+        "label": "A",
+        "text": "仅科目一，无其他认可情形"
+      },
+      {
+        "label": "B",
+        "text": "仅科目三"
+      },
+      {
+        "label": "C",
+        "text": "科目一与科目二"
+      },
+      {
+        "label": "D",
+        "text": "科目二与科目三，不含科目一"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "协会科目组合对照表规定公募基金管理业务适用科目一与科目二，另有认可情形从其规定。",
+    "difficulty": 1,
+    "syllabusCode": "4.5.a—4.5.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "基金业协会资格注册服务指南",
+        "url": "https://www.amac.org.cn/fwdt/wyb/rygl/cyryzggl/zgglfwzn/",
+        "locator": "科目组合对照表"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.5.a—4.5.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0043",
+    "stem": "拟从事非证券类私募基金管理业务，通常可选择哪一组合？",
+    "options": [
+      {
+        "label": "A",
+        "text": "仅科目二"
+      },
+      {
+        "label": "B",
+        "text": "仅科目三"
+      },
+      {
+        "label": "C",
+        "text": "科目一与科目二，或科目一与科目三"
+      },
+      {
+        "label": "D",
+        "text": "科目二与科目三，不含科目一"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "非证券类私募基金管理适用科目一加科目二或科目三。",
+    "difficulty": 1,
+    "syllabusCode": "4.5.a—4.5.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "基金业协会资格注册服务指南",
+        "url": "https://www.amac.org.cn/fwdt/wyb/rygl/cyryzggl/zgglfwzn/",
+        "locator": "科目组合对照表"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.5.a—4.5.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0044",
+    "stem": "从业人员离职且不再从事基金业务，所在机构应如何处理资格？",
+    "options": [
+      {
+        "label": "A",
+        "text": "无需维护人员状态"
+      },
+      {
+        "label": "B",
+        "text": "永久保留在原岗位执业身份"
+      },
+      {
+        "label": "C",
+        "text": "让个人冒用原机构继续销售"
+      },
+      {
+        "label": "D",
+        "text": "按规定办理注销或终止相应注册"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "任职和业务状态变化应及时维护相应资格注册信息。",
+    "difficulty": 1,
+    "syllabusCode": "4.5.a—4.5.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "基金业协会资格注册服务指南",
+        "url": "https://www.amac.org.cn/fwdt/wyb/rygl/cyryzggl/zgglfwzn/",
+        "locator": "从业资格注销"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.5.a—4.5.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0045",
+    "stem": "根据2026年绩效考核指引，基金管理公司应建立以什么为核心的考核体系？",
+    "options": [
+      {
+        "label": "A",
+        "text": "单纯短期排名"
+      },
+      {
+        "label": "B",
+        "text": "基金投资收益"
+      },
+      {
+        "label": "C",
+        "text": "单纯销售佣金收入"
+      },
+      {
+        "label": "D",
+        "text": "单纯基金规模增长"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "2026年指引明确以基金投资收益为核心，不能只关注规模和销售。",
+    "difficulty": 2,
+    "syllabusCode": "4.5.c1",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "基金管理公司绩效考核管理指引（2026）",
+        "url": "https://www.amac.org.cn/xwfb/xhyw/202604/P020260417619131260676.pdf",
+        "locator": "第10条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.5.c1"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0046",
+    "stem": "基金投资收益指标中，三年以上中长期指标权重最低为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "30%"
+      },
+      {
+        "label": "B",
+        "text": "40%"
+      },
+      {
+        "label": "C",
+        "text": "50%"
+      },
+      {
+        "label": "D",
+        "text": "80%"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "2026年指引第十一条规定，该权重不得低于80%。",
+    "difficulty": 2,
+    "syllabusCode": "4.5.c1",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "基金管理公司绩效考核管理指引（2026）",
+        "url": "https://www.amac.org.cn/xwfb/xhyw/202604/P020260417619131260676.pdf",
+        "locator": "第11条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.5.c1"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0047",
+    "stem": "对高级管理人员整体考核时，基金投资收益指标权重最低为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "20%"
+      },
+      {
+        "label": "B",
+        "text": "30%"
+      },
+      {
+        "label": "C",
+        "text": "40%"
+      },
+      {
+        "label": "D",
+        "text": "50%"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "2026年指引第十二条规定，不得低于50%。",
+    "difficulty": 2,
+    "syllabusCode": "4.5.c1",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "基金管理公司绩效考核管理指引（2026）",
+        "url": "https://www.amac.org.cn/xwfb/xhyw/202604/P020260417619131260676.pdf",
+        "locator": "第12条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.5.c1"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0048",
+    "stem": "对主动权益类基金经理考核时，基金产品业绩指标权重最低为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "80%"
+      },
+      {
+        "label": "B",
+        "text": "40%"
+      },
+      {
+        "label": "C",
+        "text": "50%"
+      },
+      {
+        "label": "D",
+        "text": "30%"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "须区分基金产品业绩整体指标与业绩比较基准对比指标，整体业绩指标不低于80%。",
+    "difficulty": 2,
+    "syllabusCode": "4.5.c1",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "基金管理公司绩效考核管理指引（2026）",
+        "url": "https://www.amac.org.cn/xwfb/xhyw/202604/P020260417619131260676.pdf",
+        "locator": "第13条第1项"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.5.c1"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0049",
+    "stem": "主动权益类基金经理考核中，业绩比较基准对比指标权重最低为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "20%"
+      },
+      {
+        "label": "B",
+        "text": "50%"
+      },
+      {
+        "label": "C",
+        "text": "10%"
+      },
+      {
+        "label": "D",
+        "text": "30%"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "2026年指引规定业绩比较基准对比指标权重不低于30%。",
+    "difficulty": 2,
+    "syllabusCode": "4.5.c1",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "基金管理公司绩效考核管理指引（2026）",
+        "url": "https://www.amac.org.cn/xwfb/xhyw/202604/P020260417619131260676.pdf",
+        "locator": "第13条第1项"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.5.c1"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0050",
+    "stem": "负责销售的高管及核心销售人员考核中，投资者盈亏情况指标权重最低为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "20%"
+      },
+      {
+        "label": "B",
+        "text": "50%"
+      },
+      {
+        "label": "C",
+        "text": "80%"
+      },
+      {
+        "label": "D",
+        "text": "30%"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "新指引强调销售与投资者实际盈亏的利益关联，权重不低于50%。",
+    "difficulty": 2,
+    "syllabusCode": "4.5.c1",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "基金管理公司绩效考核管理指引（2026）",
+        "url": "https://www.amac.org.cn/xwfb/xhyw/202604/P020260417619131260676.pdf",
+        "locator": "第13条第2项"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.5.c1"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0051",
+    "stem": "以下哪组更符合2026年指引的绩效指标构成？",
+    "options": [
+      {
+        "label": "A",
+        "text": "只包括营业收入和利润"
+      },
+      {
+        "label": "B",
+        "text": "募集规模、广告曝光、员工出差次数"
+      },
+      {
+        "label": "C",
+        "text": "基金投资收益、合规风控、社会责任"
+      },
+      {
+        "label": "D",
+        "text": "短期排名、销售佣金、网站访问量"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "第十一条要求指标包括投资收益、合规风控和社会责任等。",
+    "difficulty": 2,
+    "syllabusCode": "4.5.c1",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "基金管理公司绩效考核管理指引（2026）",
+        "url": "https://www.amac.org.cn/xwfb/xhyw/202604/P020260417619131260676.pdf",
+        "locator": "第11条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.5.c1"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0052",
+    "stem": "基金经理管理不满一年的某只公募基金，在新指引所述多基金业绩加权考核中应如何处理？",
+    "options": [
+      {
+        "label": "A",
+        "text": "与管理满三年的基金不作区别"
+      },
+      {
+        "label": "B",
+        "text": "按三年业绩直接计算"
+      },
+      {
+        "label": "C",
+        "text": "不纳入该项考核范围"
+      },
+      {
+        "label": "D",
+        "text": "必须按规模放大权重"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "第十四条要求结合规模和管理时间加权，管理不满一年的公募基金不纳入考核范围。",
+    "difficulty": 2,
+    "syllabusCode": "4.5.c1",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "基金管理公司绩效考核管理指引（2026）",
+        "url": "https://www.amac.org.cn/xwfb/xhyw/202604/P020260417619131260676.pdf",
+        "locator": "第14条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.5.c1"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0053",
+    "stem": "绩效薪酬递延支付期限至少为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "半年"
+      },
+      {
+        "label": "B",
+        "text": "一年"
+      },
+      {
+        "label": "C",
+        "text": "两年"
+      },
+      {
+        "label": "D",
+        "text": "三年"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "2026年指引规定递延期限不少于三年，递延支付速度不得快于等分比例。",
+    "difficulty": 2,
+    "syllabusCode": "4.5.c1",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "基金管理公司绩效考核管理指引（2026）",
+        "url": "https://www.amac.org.cn/xwfb/xhyw/202604/P020260417619131260676.pdf",
+        "locator": "第16条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.5.c1"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0054",
+    "stem": "关于绩效薪酬递延支付速度，哪项符合指引？",
+    "options": [
+      {
+        "label": "A",
+        "text": "必须第一年一次性付清"
+      },
+      {
+        "label": "B",
+        "text": "必须最后一年才允许支付"
+      },
+      {
+        "label": "C",
+        "text": "只要员工同意即可任意提前"
+      },
+      {
+        "label": "D",
+        "text": "不得快于等分比例"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "指引设定递延期限和支付速度要求，两者应同时满足。",
+    "difficulty": 2,
+    "syllabusCode": "4.5.c1",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "基金管理公司绩效考核管理指引（2026）",
+        "url": "https://www.amac.org.cn/xwfb/xhyw/202604/P020260417619131260676.pdf",
+        "locator": "第16条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.5.c1"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0055",
+    "stem": "2026年指引列明的薪酬四部分是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "基本薪酬、绩效薪酬、福利津补贴、中长期激励"
+      },
+      {
+        "label": "B",
+        "text": "管理费、托管费、认购费、赎回费"
+      },
+      {
+        "label": "C",
+        "text": "底薪、基金净值、股价、营业收入"
+      },
+      {
+        "label": "D",
+        "text": "基本薪酬、罚款、赔偿、募集款"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "须区分公司员工薪酬结构与基金向投资者收取的费用。",
+    "difficulty": 2,
+    "syllabusCode": "4.5.c1",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "基金管理公司绩效考核管理指引（2026）",
+        "url": "https://www.amac.org.cn/xwfb/xhyw/202604/P020260417619131260676.pdf",
+        "locator": "第6条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.5.c1"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0056",
+    "stem": "中高级管理人员平均薪酬增幅，原则上应怎样控制？",
+    "options": [
+      {
+        "label": "A",
+        "text": "必须高于公司人均增幅"
+      },
+      {
+        "label": "B",
+        "text": "不受任何约束"
+      },
+      {
+        "label": "C",
+        "text": "不得高于公司人均薪酬增幅"
+      },
+      {
+        "label": "D",
+        "text": "只与基金规模挂钩"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "第八条要求审慎控制，原则上不得高于公司人均薪酬增幅。",
+    "difficulty": 2,
+    "syllabusCode": "4.5.c1",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "基金管理公司绩效考核管理指引（2026）",
+        "url": "https://www.amac.org.cn/xwfb/xhyw/202604/P020260417619131260676.pdf",
+        "locator": "第8条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.5.c1"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0057",
+    "stem": "为规避考核权重要求，给某基金经理增加多个兼任职务，是否可行？",
+    "options": [
+      {
+        "label": "A",
+        "text": "兼任越多越可以不考核"
+      },
+      {
+        "label": "B",
+        "text": "只要变更职务名称就可以"
+      },
+      {
+        "label": "C",
+        "text": "只需员工同意即可"
+      },
+      {
+        "label": "D",
+        "text": "不得借此规避相关考核要求"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "指引禁止通过增加分管业务、职务和管理组合规避要求。",
+    "difficulty": 2,
+    "syllabusCode": "4.5.c1",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "基金管理公司绩效考核管理指引（2026）",
+        "url": "https://www.amac.org.cn/xwfb/xhyw/202604/P020260417619131260676.pdf",
+        "locator": "第15条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.5.c1"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0058",
+    "stem": "2026年新指引施行后，2022年绩效考核与薪酬管理指引的状态是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "由每家公司自行决定是否废止"
+      },
+      {
+        "label": "B",
+        "text": "仍与新指引任选适用"
+      },
+      {
+        "label": "C",
+        "text": "只有第一章继续生效"
+      },
+      {
+        "label": "D",
+        "text": "同时废止"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-4",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "第三十一条明确新指引发布之日起施行，2022年旧指引同时废止。",
+    "difficulty": 2,
+    "syllabusCode": "4.5.c1",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "基金管理公司绩效考核管理指引（2026）",
+        "url": "https://www.amac.org.cn/xwfb/xhyw/202604/P020260417619131260676.pdf",
+        "locator": "第31条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "4.5.c1"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0059",
+    "stem": "公募基金募集期限自基金份额发售之日起最长为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "一个月"
+      },
+      {
+        "label": "B",
+        "text": "六个月"
+      },
+      {
+        "label": "C",
+        "text": "三个月"
+      },
+      {
+        "label": "D",
+        "text": "十二个月"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "运作管理办法第十一条规定募集期限不得超过三个月。",
+    "difficulty": 1,
+    "syllabusCode": "5.1.a—5.1.c",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "公开募集证券投资基金运作管理办法",
+        "url": "https://www.csrc.gov.cn/csrc/c106256/c1653978/content.shtml",
+        "locator": "第11条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.1.a—5.1.c"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0060",
+    "stem": "不适用发起式例外的公募基金成立条件中，基金份额持有人人数至少为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "50人"
+      },
+      {
+        "label": "B",
+        "text": "100人"
+      },
+      {
+        "label": "C",
+        "text": "200人"
+      },
+      {
+        "label": "D",
+        "text": "500人"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "普通公募基金成立还应满足法定募集份额与金额要求，不能只看人数。",
+    "difficulty": 1,
+    "syllabusCode": "5.1.a—5.1.c",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "公开募集证券投资基金运作管理办法",
+        "url": "https://www.csrc.gov.cn/csrc/c106256/c1653978/content.shtml",
+        "locator": "第12条第1款"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.1.a—5.1.c"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0061",
+    "stem": "不适用发起式例外的普通公募基金，募集金额通常至少为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "1亿元人民币"
+      },
+      {
+        "label": "B",
+        "text": "1000万元人民币"
+      },
+      {
+        "label": "C",
+        "text": "5000万元人民币"
+      },
+      {
+        "label": "D",
+        "text": "2亿元人民币"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "第十二条规定募集份额不少于两亿份，募集金额不少于两亿元，持有人不少于二百人。",
+    "difficulty": 1,
+    "syllabusCode": "5.1.a—5.1.c",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "公开募集证券投资基金运作管理办法",
+        "url": "https://www.csrc.gov.cn/csrc/c106256/c1653978/content.shtml",
+        "locator": "第12条第1款"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.1.a—5.1.c"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0062",
+    "stem": "中国证监会书面确认基金备案手续之日，对基金合同生效有什么影响？",
+    "options": [
+      {
+        "label": "A",
+        "text": "自该书面确认之日起生效"
+      },
+      {
+        "label": "B",
+        "text": "满三个月自动生效"
+      },
+      {
+        "label": "C",
+        "text": "发售首日当然生效"
+      },
+      {
+        "label": "D",
+        "text": "最后一位投资者付款即生效"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "须区分募集、备案和合同生效的时间节点。",
+    "difficulty": 1,
+    "syllabusCode": "5.1.a—5.1.c",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "公开募集证券投资基金运作管理办法",
+        "url": "https://www.csrc.gov.cn/csrc/c106256/c1653978/content.shtml",
+        "locator": "第13条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.1.a—5.1.c"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0063",
+    "stem": "公募基金募集期间的信息披露、会计师和律师等费用，能否从基金财产列支？",
+    "options": [
+      {
+        "label": "A",
+        "text": "不得从基金财产列支"
+      },
+      {
+        "label": "B",
+        "text": "一律由托管财产直接列支"
+      },
+      {
+        "label": "C",
+        "text": "只要管理人决定即可"
+      },
+      {
+        "label": "D",
+        "text": "由某一持有人口头批准即可"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "募集费用按第十四条要求处理，收取认购费的可从认购费列支。",
+    "difficulty": 1,
+    "syllabusCode": "5.1.a—5.1.c",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "公开募集证券投资基金运作管理办法",
+        "url": "https://www.csrc.gov.cn/csrc/c106256/c1653978/content.shtml",
+        "locator": "第14条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.1.a—5.1.c"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0064",
+    "stem": "发起式基金的发起资金认购金额至少为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "500万元人民币"
+      },
+      {
+        "label": "B",
+        "text": "100万元人民币"
+      },
+      {
+        "label": "C",
+        "text": "1000万元人民币"
+      },
+      {
+        "label": "D",
+        "text": "2000万元人民币"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "第十二条对发起资金金额及持有期限作出特别安排。",
+    "difficulty": 1,
+    "syllabusCode": "5.1.a—5.1.c",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "公开募集证券投资基金运作管理办法",
+        "url": "https://www.csrc.gov.cn/csrc/c106256/c1653978/content.shtml",
+        "locator": "第12条第2款"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.1.a—5.1.c"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0065",
+    "stem": "发起式基金相关发起资金的持有期限至少为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "六个月"
+      },
+      {
+        "label": "B",
+        "text": "一年"
+      },
+      {
+        "label": "C",
+        "text": "三个月"
+      },
+      {
+        "label": "D",
+        "text": "三年"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "发起资金认购金额不少于1000万元，持有期限不少于三年。",
+    "difficulty": 1,
+    "syllabusCode": "5.1.a—5.1.c",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "公开募集证券投资基金运作管理办法",
+        "url": "https://www.csrc.gov.cn/csrc/c106256/c1653978/content.shtml",
+        "locator": "第12条第2款"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.1.a—5.1.c"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0066",
+    "stem": "按2026年规则，私募股权投资基金通常应披露哪些定期报告？",
+    "options": [
+      {
+        "label": "A",
+        "text": "季度报告和年度报告"
+      },
+      {
+        "label": "B",
+        "text": "周度报告和月度报告"
+      },
+      {
+        "label": "C",
+        "text": "月度报告和季度报告"
+      },
+      {
+        "label": "D",
+        "text": "半年度报告和年度报告"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "2026年细则对私募股权基金设置半年度报告和年度报告，应与旧题季度口径区分。",
+    "difficulty": 2,
+    "syllabusCode": "5.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第23条、第32条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0067",
+    "stem": "私募股权基金半年度报告应在每半年结束后多久内披露？",
+    "options": [
+      {
+        "label": "A",
+        "text": "两个月"
+      },
+      {
+        "label": "B",
+        "text": "四个月"
+      },
+      {
+        "label": "C",
+        "text": "六个月"
+      },
+      {
+        "label": "D",
+        "text": "一个月"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "细则第二十三条规定在每半年结束之日起两个月内向投资者披露。",
+    "difficulty": 2,
+    "syllabusCode": "5.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第23条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0068",
+    "stem": "私募股权基金年度报告应在每年度结束后多久内披露？",
+    "options": [
+      {
+        "label": "A",
+        "text": "一个月"
+      },
+      {
+        "label": "B",
+        "text": "六个月"
+      },
+      {
+        "label": "C",
+        "text": "两个月"
+      },
+      {
+        "label": "D",
+        "text": "四个月"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "第三十二条对私募股权基金规定六个月；不要与私募证券基金年度报告四个月混淆。",
+    "difficulty": 2,
+    "syllabusCode": "5.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第32条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0069",
+    "stem": "私募证券基金季度报告应在季度结束后多久内披露？",
+    "options": [
+      {
+        "label": "A",
+        "text": "两个月"
+      },
+      {
+        "label": "B",
+        "text": "十五日"
+      },
+      {
+        "label": "C",
+        "text": "四个月"
+      },
+      {
+        "label": "D",
+        "text": "一个月"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "2026年细则第六条规定一个月内，不是旧题常见的十个工作日口径。",
+    "difficulty": 2,
+    "syllabusCode": "5.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第6条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0070",
+    "stem": "私募证券基金年度报告应在年度结束后多久内披露？",
+    "options": [
+      {
+        "label": "A",
+        "text": "一个月"
+      },
+      {
+        "label": "B",
+        "text": "四个月"
+      },
+      {
+        "label": "C",
+        "text": "两个月"
+      },
+      {
+        "label": "D",
+        "text": "六个月"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "不同基金类别报告期限不同，私募证券基金年度报告为四个月内。",
+    "difficulty": 2,
+    "syllabusCode": "5.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第18条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0071",
+    "stem": "创业投资基金半年度报告，在2026年细则中的安排是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "鼓励披露"
+      },
+      {
+        "label": "B",
+        "text": "必须每月披露"
+      },
+      {
+        "label": "C",
+        "text": "与年度报告一并永久豁免"
+      },
+      {
+        "label": "D",
+        "text": "必须按证券基金季报格式披露"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "细则鼓励披露创业投资基金半年度报告，年度报告仍按规定编制和披露。",
+    "difficulty": 2,
+    "syllabusCode": "5.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第37条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0072",
+    "stem": "基金重大事项已或可能重大影响投资者权益，临时报告一般应在事项发生后多久内披露？",
+    "options": [
+      {
+        "label": "A",
+        "text": "十五个自然日"
+      },
+      {
+        "label": "B",
+        "text": "五个工作日"
+      },
+      {
+        "label": "C",
+        "text": "下一年度结束后"
+      },
+      {
+        "label": "D",
+        "text": "一个月"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "细则第三十八条要求及时编制并在事项发生之日起五个工作日内披露。",
+    "difficulty": 2,
+    "syllabusCode": "5.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第38条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0073",
+    "stem": "管理人仅在协会信息披露备份平台备份，未通过其他披露渠道披露，是否完成向投资者披露？",
+    "options": [
+      {
+        "label": "A",
+        "text": "不能视为已完成"
+      },
+      {
+        "label": "B",
+        "text": "上传成功即完成"
+      },
+      {
+        "label": "C",
+        "text": "只要托管人看过即完成"
+      },
+      {
+        "label": "D",
+        "text": "只要文件名正确即完成"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "备份平台不是信息披露渠道，备份不替代向投资者披露。",
+    "difficulty": 2,
+    "syllabusCode": "5.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第43条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0074",
+    "stem": "信息披露相关文件资料，自基金清算结束起至少保存多久？",
+    "options": [
+      {
+        "label": "A",
+        "text": "五年"
+      },
+      {
+        "label": "B",
+        "text": "十五年"
+      },
+      {
+        "label": "C",
+        "text": "二十年"
+      },
+      {
+        "label": "D",
+        "text": "十年"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "2026年细则第四十五条规定清算结束之日起不少于二十年。",
+    "difficulty": 2,
+    "syllabusCode": "5.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第45条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0075",
+    "stem": "私募股权基金年度审计报告的披露要求，哪项正确？",
+    "options": [
+      {
+        "label": "A",
+        "text": "披露审计报告全文，不得修改删减审计意见"
+      },
+      {
+        "label": "B",
+        "text": "只披露有利段落"
+      },
+      {
+        "label": "C",
+        "text": "只披露会计师姓名"
+      },
+      {
+        "label": "D",
+        "text": "可以删除保留意见段"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "应披露全文，并在年度报告正文转载注册会计师审计意见。",
+    "difficulty": 2,
+    "syllabusCode": "5.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第33条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0076",
+    "stem": "向私募基金投资者披露信息时，哪种做法被禁止？",
+    "options": [
+      {
+        "label": "A",
+        "text": "说明实际估值方法"
+      },
+      {
+        "label": "B",
+        "text": "披露实际关联交易"
+      },
+      {
+        "label": "C",
+        "text": "如实披露费用"
+      },
+      {
+        "label": "D",
+        "text": "预测基金投资业绩并承诺最大亏损"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "细则禁止业绩预测、保本及最低收益或最大亏损承诺。",
+    "difficulty": 2,
+    "syllabusCode": "5.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第4条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0077",
+    "stem": "披露内容满足模板后，某未列于模板但重大影响投资者决策的信息是否还需披露？",
+    "options": [
+      {
+        "label": "A",
+        "text": "仍应披露"
+      },
+      {
+        "label": "B",
+        "text": "只向大客户披露"
+      },
+      {
+        "label": "C",
+        "text": "模板没写就不需披露"
+      },
+      {
+        "label": "D",
+        "text": "可等基金清算后再披露"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "模板是最低内容要求，重大决策相关信息即使未明确列示仍应披露。",
+    "difficulty": 2,
+    "syllabusCode": "5.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第42条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0078",
+    "stem": "基金超过一年仍未清算完毕，应如何披露清算事项？",
+    "options": [
+      {
+        "label": "A",
+        "text": "每三年披露一次即可"
+      },
+      {
+        "label": "B",
+        "text": "转为口头通知即可"
+      },
+      {
+        "label": "C",
+        "text": "只在最终完成时披露"
+      },
+      {
+        "label": "D",
+        "text": "每年至少披露一次清算有关事项"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "长期清算不免除持续信息披露义务。",
+    "difficulty": 2,
+    "syllabusCode": "5.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第39条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0079",
+    "stem": "2016年《私募投资基金信息披露管理办法》在新细则施行后如何处理？",
+    "options": [
+      {
+        "label": "A",
+        "text": "自2026年9月1日起同时废止"
+      },
+      {
+        "label": "B",
+        "text": "改名后保持原内容"
+      },
+      {
+        "label": "C",
+        "text": "只对2026年后新基金废止"
+      },
+      {
+        "label": "D",
+        "text": "仍与新细则任选"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "新细则第五十二条明确旧办法及配套指引同时废止。",
+    "difficulty": 2,
+    "syllabusCode": "5.3.e",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第52条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.3.e"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0080",
+    "stem": "客户拒绝提供真实身份且无法核实，金融机构能否为其开匿名账户？",
+    "options": [
+      {
+        "label": "A",
+        "text": "由销售人员担保即可"
+      },
+      {
+        "label": "B",
+        "text": "可以先开户再永久豁免调查"
+      },
+      {
+        "label": "C",
+        "text": "不得开立"
+      },
+      {
+        "label": "D",
+        "text": "只要金额小即可"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "反洗钱法禁止为身份不明客户提供服务或开立匿名、假名账户。",
+    "difficulty": 1,
+    "syllabusCode": "5.4.a—5.4.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "反洗钱法（2024修订，2025年施行）",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2025/art_cfcc31edf0a64744bb5d7ff1307c0356.html",
+        "locator": "第28条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.4.a—5.4.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0081",
+    "stem": "客户尽职调查的对象除了客户本人，还包括？",
+    "options": [
+      {
+        "label": "A",
+        "text": "客户的受益所有人"
+      },
+      {
+        "label": "B",
+        "text": "所有同姓自然人"
+      },
+      {
+        "label": "C",
+        "text": "所有竞争对手"
+      },
+      {
+        "label": "D",
+        "text": "全体其他基金投资者"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "尽调包括识别并合理核实客户及其受益所有人身份。",
+    "difficulty": 1,
+    "syllabusCode": "5.4.a—5.4.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "反洗钱法（2024修订，2025年施行）",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2025/art_cfcc31edf0a64744bb5d7ff1307c0356.html",
+        "locator": "第29条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.4.a—5.4.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0082",
+    "stem": "发现先前获得的客户身份资料真实性存疑，应怎样处理？",
+    "options": [
+      {
+        "label": "A",
+        "text": "继续完全依赖旧资料"
+      },
+      {
+        "label": "B",
+        "text": "开展相应客户尽职调查"
+      },
+      {
+        "label": "C",
+        "text": "仅询问销售业绩"
+      },
+      {
+        "label": "D",
+        "text": "只更新营销标签"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "身份资料真实性、有效性、完整性存在疑问是开展尽调的情形之一。",
+    "difficulty": 1,
+    "syllabusCode": "5.4.a—5.4.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "反洗钱法（2024修订，2025年施行）",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2025/art_cfcc31edf0a64744bb5d7ff1307c0356.html",
+        "locator": "第29条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.4.a—5.4.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0083",
+    "stem": "业务关系存续期间，客户交易与已知身份风险状况不符，应如何处理？",
+    "options": [
+      {
+        "label": "A",
+        "text": "因已开户而不再核实"
+      },
+      {
+        "label": "B",
+        "text": "一律不作区分地永久冻结"
+      },
+      {
+        "label": "C",
+        "text": "直接公开客户信息"
+      },
+      {
+        "label": "D",
+        "text": "进一步核实客户及交易情况"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "应持续关注交易与客户状况，采取与风险相称的措施。",
+    "difficulty": 1,
+    "syllabusCode": "5.4.a—5.4.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "反洗钱法（2024修订，2025年施行）",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2025/art_cfcc31edf0a64744bb5d7ff1307c0356.html",
+        "locator": "第30条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.4.a—5.4.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0084",
+    "stem": "依托第三方开展客户尽调，第三方未履行法定调查措施，谁承担金融机构未履责的法律责任？",
+    "options": [
+      {
+        "label": "A",
+        "text": "当然仅由客户承担"
+      },
+      {
+        "label": "B",
+        "text": "该金融机构"
+      },
+      {
+        "label": "C",
+        "text": "当然仅由第三方承担"
+      },
+      {
+        "label": "D",
+        "text": "无需任何主体承担"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "委托或依托第三方不免除金融机构法定责任。",
+    "difficulty": 1,
+    "syllabusCode": "5.4.a—5.4.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "反洗钱法（2024修订，2025年施行）",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2025/art_cfcc31edf0a64744bb5d7ff1307c0356.html",
+        "locator": "第32条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.4.a—5.4.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0085",
+    "stem": "客户身份资料在业务关系结束后至少应保存多久？",
+    "options": [
+      {
+        "label": "A",
+        "text": "八年"
+      },
+      {
+        "label": "B",
+        "text": "五年"
+      },
+      {
+        "label": "C",
+        "text": "十年"
+      },
+      {
+        "label": "D",
+        "text": "三年"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "2024年修订、2025年施行的反洗钱法第三十四条规定至少十年。",
+    "difficulty": 1,
+    "syllabusCode": "5.4.a—5.4.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "反洗钱法（2024修订，2025年施行）",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2025/art_cfcc31edf0a64744bb5d7ff1307c0356.html",
+        "locator": "第34条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.4.a—5.4.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0086",
+    "stem": "客户交易信息保存期限的起算点通常是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "基金产品开始宣传之日"
+      },
+      {
+        "label": "B",
+        "text": "机构成立之日"
+      },
+      {
+        "label": "C",
+        "text": "该交易结束后"
+      },
+      {
+        "label": "D",
+        "text": "客户首次咨询之日"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "身份资料与交易信息的保存起算点应区分：业务关系结束、交易结束。",
+    "difficulty": 1,
+    "syllabusCode": "5.4.a—5.4.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "反洗钱法（2024修订，2025年施行）",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2025/art_cfcc31edf0a64744bb5d7ff1307c0356.html",
+        "locator": "第34条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.4.a—5.4.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0087",
+    "stem": "提交可疑交易报告的情况应当怎样处理？",
+    "options": [
+      {
+        "label": "A",
+        "text": "主动通知涉嫌客户以供其调整交易"
+      },
+      {
+        "label": "B",
+        "text": "保密"
+      },
+      {
+        "label": "C",
+        "text": "用于给客户打广告"
+      },
+      {
+        "label": "D",
+        "text": "公开在营销群中"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "法定可疑交易报告及有关信息须保密。",
+    "difficulty": 1,
+    "syllabusCode": "5.4.a—5.4.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "反洗钱法（2024修订，2025年施行）",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2025/art_cfcc31edf0a64744bb5d7ff1307c0356.html",
+        "locator": "第35条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.4.a—5.4.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0088",
+    "stem": "采取洗钱风险管理措施应遵循什么要求？",
+    "options": [
+      {
+        "label": "A",
+        "text": "完全取消对高风险客户调查"
+      },
+      {
+        "label": "B",
+        "text": "只根据客户投资收益决定"
+      },
+      {
+        "label": "C",
+        "text": "与风险相称，兼顾必需金融服务"
+      },
+      {
+        "label": "D",
+        "text": "对所有客户采取最严限制"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "反洗钱法要求措施与风险匹配，保障基本必需金融服务。",
+    "difficulty": 1,
+    "syllabusCode": "5.4.a—5.4.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "反洗钱法（2024修订，2025年施行）",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2025/art_cfcc31edf0a64744bb5d7ff1307c0356.html",
+        "locator": "第30条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.4.a—5.4.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0089",
+    "stem": "客户由他人代理办理业务，金融机构还应做什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "只看代理人持有手机"
+      },
+      {
+        "label": "B",
+        "text": "核实代理关系及代理人身份"
+      },
+      {
+        "label": "C",
+        "text": "只记下代理人的姓氏"
+      },
+      {
+        "label": "D",
+        "text": "无须核实任何身份"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-5",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "代理业务应核实代理关系并识别、核实代理人身份。",
+    "difficulty": 1,
+    "syllabusCode": "5.4.a—5.4.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "反洗钱法（2024修订，2025年施行）",
+        "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2025/art_cfcc31edf0a64744bb5d7ff1307c0356.html",
+        "locator": "第31条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "5.4.a—5.4.b"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0090",
+    "stem": "合规所涵盖的规范范围包括什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "仅法律条文"
+      },
+      {
+        "label": "B",
+        "text": "仅管理层口头命令"
+      },
+      {
+        "label": "C",
+        "text": "仅基金合同"
+      },
+      {
+        "label": "D",
+        "text": "法律法规、自律规则、内部制度及行业普遍遵守的职业道德"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-6",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "合规范围比不违法更广，还包括自律、内部制度和职业准则。",
+    "difficulty": 1,
+    "syllabusCode": "6.1.a—6.1.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "证券公司和证券投资基金管理公司合规管理办法",
+        "url": "https://www.csrc.gov.cn/csrc/c106256/c1653949/content.shtml",
+        "locator": "第2条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "6.1.a—6.1.d"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0091",
+    "stem": "业务部门认为合规只由合规部负责，哪项评价准确？",
+    "options": [
+      {
+        "label": "A",
+        "text": "错误，业务部门及人员也承担相应合规责任"
+      },
+      {
+        "label": "B",
+        "text": "只要完成利润目标即可免责"
+      },
+      {
+        "label": "C",
+        "text": "正确，有合规部就可免责"
+      },
+      {
+        "label": "D",
+        "text": "仅合规负责人需要了解规则"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-6",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "合规管理要求全员参与，不能转移业务部门自身责任。",
+    "difficulty": 1,
+    "syllabusCode": "6.1.a—6.1.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "证券公司和证券投资基金管理公司合规管理办法",
+        "url": "https://www.csrc.gov.cn/csrc/c106256/c1653949/content.shtml",
+        "locator": "全员合规要求"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "6.1.a—6.1.d"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0092",
+    "stem": "合规负责人发现重大风险隐患，适当做法是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "等业务盈利后再报告"
+      },
+      {
+        "label": "B",
+        "text": "自行销毁交易资料"
+      },
+      {
+        "label": "C",
+        "text": "及时报告、提出意见并督促整改"
+      },
+      {
+        "label": "D",
+        "text": "只向客户承诺赔付"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-6",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "应依规定报告并推动整改，不能隐瞒或拖延。",
+    "difficulty": 1,
+    "syllabusCode": "6.1.a—6.1.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "证券公司和证券投资基金管理公司合规管理办法",
+        "url": "https://www.csrc.gov.cn/csrc/c106256/c1653949/content.shtml",
+        "locator": "合规负责人职责"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "6.1.a—6.1.d"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0093",
+    "stem": "下列哪种安排更有利于合规职能独立？",
+    "options": [
+      {
+        "label": "A",
+        "text": "提供独立履职保障并畅通报告路径"
+      },
+      {
+        "label": "B",
+        "text": "要求合规部门承担销售指标"
+      },
+      {
+        "label": "C",
+        "text": "让销售负责人否决全部合规意见"
+      },
+      {
+        "label": "D",
+        "text": "按业务成交量决定每一项合规结论"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-6",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "独立履职保障有助于合规人员客观判断风险。",
+    "difficulty": 1,
+    "syllabusCode": "6.1.a—6.1.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "证券公司和证券投资基金管理公司合规管理办法",
+        "url": "https://www.csrc.gov.cn/csrc/c106256/c1653949/content.shtml",
+        "locator": "合规管理原则"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "6.1.a—6.1.d"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0094",
+    "stem": "债券发行人不能按约付息，主要属于什么风险？",
+    "options": [
+      {
+        "label": "A",
+        "text": "操作风险"
+      },
+      {
+        "label": "B",
+        "text": "汇率风险"
+      },
+      {
+        "label": "C",
+        "text": "利率风险"
+      },
+      {
+        "label": "D",
+        "text": "信用风险"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-6",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "交易对手或发行人违约属于信用风险。",
+    "difficulty": 1,
+    "syllabusCode": "6.2.a—6.3.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "6.2.d 风险分类"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0095",
+    "stem": "基金需要应对赎回，却难以以合理价格卖出资产，主要是什么风险？",
+    "options": [
+      {
+        "label": "A",
+        "text": "募集登记风险"
+      },
+      {
+        "label": "B",
+        "text": "政治纪律风险"
+      },
+      {
+        "label": "C",
+        "text": "会计记账风险"
+      },
+      {
+        "label": "D",
+        "text": "流动性风险"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-6",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "资产变现能力不足与赎回需求不匹配体现流动性风险。",
+    "difficulty": 1,
+    "syllabusCode": "6.2.a—6.3.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "6.2.d 风险分类"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0096",
+    "stem": "员工错误输入交易数量造成损失，主要是什么风险？",
+    "options": [
+      {
+        "label": "A",
+        "text": "通胀风险"
+      },
+      {
+        "label": "B",
+        "text": "汇率风险"
+      },
+      {
+        "label": "C",
+        "text": "信用风险"
+      },
+      {
+        "label": "D",
+        "text": "操作风险"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-6",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "人员、流程、系统等引起的差错可形成操作风险。",
+    "difficulty": 1,
+    "syllabusCode": "6.2.a—6.3.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "6.2.d 风险分类"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0097",
+    "stem": "利率变化导致债券价格波动，主要体现什么风险？",
+    "options": [
+      {
+        "label": "A",
+        "text": "法律文件保管风险"
+      },
+      {
+        "label": "B",
+        "text": "身份识别风险"
+      },
+      {
+        "label": "C",
+        "text": "舞弊调查风险"
+      },
+      {
+        "label": "D",
+        "text": "市场风险"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-6",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "市场价格因利率、汇率等市场变量变化形成市场风险。",
+    "difficulty": 1,
+    "syllabusCode": "6.2.a—6.3.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "6.2.d 风险分类"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0098",
+    "stem": "研究、投资决策、交易执行适当分工的主要目的是什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "保证基金规模增长"
+      },
+      {
+        "label": "B",
+        "text": "保证投资绝不亏损"
+      },
+      {
+        "label": "C",
+        "text": "减少利益冲突并形成制衡"
+      },
+      {
+        "label": "D",
+        "text": "免除托管职责"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-6",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "职责分离能够降低操作差错和道德风险，但不消除市场风险。",
+    "difficulty": 1,
+    "syllabusCode": "6.2.a—6.3.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "6.3.d 内部控制"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0099",
+    "stem": "管理层纵容激进经营、忽视合规，首先反映哪类内部控制问题？",
+    "options": [
+      {
+        "label": "A",
+        "text": "基金份额登记"
+      },
+      {
+        "label": "B",
+        "text": "控制环境"
+      },
+      {
+        "label": "C",
+        "text": "指数编制方法"
+      },
+      {
+        "label": "D",
+        "text": "证券交割周期"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-6",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "治理结构、管理理念及内控文化构成控制环境的重要内容。",
+    "difficulty": 1,
+    "syllabusCode": "6.2.a—6.3.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "6.3.c 内部控制"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0100",
+    "stem": "员工权限超出岗位所需，且长期不复核，主要应改进什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "债券票面利率"
+      },
+      {
+        "label": "B",
+        "text": "基金投资目标"
+      },
+      {
+        "label": "C",
+        "text": "授权与访问权限控制"
+      },
+      {
+        "label": "D",
+        "text": "投资者户籍分类"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-6",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "授权控制应与职责匹配，并持续检查有效性。",
+    "difficulty": 1,
+    "syllabusCode": "6.2.a—6.3.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "6.3.d 内部控制"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0101",
+    "stem": "识别到重大风险后，下一步应如何处理？",
+    "options": [
+      {
+        "label": "A",
+        "text": "评估、应对并持续监测"
+      },
+      {
+        "label": "B",
+        "text": "登记一次后无需跟踪"
+      },
+      {
+        "label": "C",
+        "text": "仅等损失发生后处理"
+      },
+      {
+        "label": "D",
+        "text": "只向营销部门展示"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-6",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "风险管理是持续过程，包括识别、评估、应对和监测等环节。",
+    "difficulty": 1,
+    "syllabusCode": "6.2.a—6.3.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "6.2.b 风险管理环节"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0102",
+    "stem": "基金经理把尚未公开的投资计划告诉朋友供其交易，主要违反什么要求？",
+    "options": [
+      {
+        "label": "A",
+        "text": "只违反基金分类要求"
+      },
+      {
+        "label": "B",
+        "text": "只影响基金命名"
+      },
+      {
+        "label": "C",
+        "text": "不得利用未公开信息交易和保守秘密"
+      },
+      {
+        "label": "D",
+        "text": "仅属于正常投资者教育"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-7",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "利用职务获得的未公开信息为他人交易提供便利违反执业规范。",
+    "difficulty": 1,
+    "syllabusCode": "7.2.a—7.7.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "7.3.b 未公开信息"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0103",
+    "stem": "分析师把未经核实的传闻作为已证实事实写入报告，主要问题是什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "未承诺固定收益"
+      },
+      {
+        "label": "B",
+        "text": "报告篇幅不足"
+      },
+      {
+        "label": "C",
+        "text": "未选择高风险产品"
+      },
+      {
+        "label": "D",
+        "text": "缺乏专业审慎并可能误导投资者"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-7",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "专业审慎要求合理调查、核实，并区分事实、假设与观点。",
+    "difficulty": 1,
+    "syllabusCode": "7.2.a—7.7.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "7.4.b 专业审慎"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0104",
+    "stem": "同等条件下，优先给关联方分配有利交易机会，属于什么问题？",
+    "options": [
+      {
+        "label": "A",
+        "text": "正常的客户分层服务"
+      },
+      {
+        "label": "B",
+        "text": "未公平对待客户并存在利益冲突"
+      },
+      {
+        "label": "C",
+        "text": "依法履行保密义务"
+      },
+      {
+        "label": "D",
+        "text": "普通的分散投资"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-7",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "客户至上要求避免损害客户利益的不公平待遇。",
+    "difficulty": 1,
+    "syllabusCode": "7.2.a—7.7.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "7.5.a 客户至上"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0105",
+    "stem": "销售人员隐瞒高额赎回费用，只展示收益截图，主要违反什么要求？",
+    "options": [
+      {
+        "label": "A",
+        "text": "仅违反基金运作方式分类"
+      },
+      {
+        "label": "B",
+        "text": "仅属于合理营销技巧"
+      },
+      {
+        "label": "C",
+        "text": "因客户签字即可免除责任"
+      },
+      {
+        "label": "D",
+        "text": "诚实守信和充分说明重要信息"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-7",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "费用和风险是重要信息，片面宣传可能构成误导。",
+    "difficulty": 1,
+    "syllabusCode": "7.2.a—7.7.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "7.3.d 不得欺诈客户"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0106",
+    "stem": "员工离职后，能否将任职期间获得的客户资料用于个人营销？",
+    "options": [
+      {
+        "label": "A",
+        "text": "可以，因为劳动关系已结束"
+      },
+      {
+        "label": "B",
+        "text": "不得因离职就擅自使用或泄露"
+      },
+      {
+        "label": "C",
+        "text": "只要不收费就可以"
+      },
+      {
+        "label": "D",
+        "text": "客户名单超过一年即可自由使用"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-7",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "保密义务不当然随离职终止，使用资料还需满足法律和授权要求。",
+    "difficulty": 1,
+    "syllabusCode": "7.2.a—7.7.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "7.7.b 保守秘密"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0107",
+    "stem": "从业人员未经批准私下接受客户委托代客炒股，主要问题是什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "收取费用越低越合规"
+      },
+      {
+        "label": "B",
+        "text": "只要亲友委托即当然允许"
+      },
+      {
+        "label": "C",
+        "text": "可能违反执业规范与利益冲突管理"
+      },
+      {
+        "label": "D",
+        "text": "只要盈利就不违规"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-7",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "从业人员应遵守任职机构制度及业务边界，不得私下违规承接业务。",
+    "difficulty": 1,
+    "syllabusCode": "7.2.a—7.7.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "7.6.b 忠诚尽责"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0108",
+    "stem": "上级要求从业人员执行明显违法指令，正确处理是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "先删除指令再执行"
+      },
+      {
+        "label": "B",
+        "text": "拒绝执行并按规定报告"
+      },
+      {
+        "label": "C",
+        "text": "让客户签免责书即可执行"
+      },
+      {
+        "label": "D",
+        "text": "以服从上级为由执行"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-7",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "服从管理不能成为违反法律法规的理由。",
+    "difficulty": 1,
+    "syllabusCode": "7.2.a—7.7.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "7.2.a 守法合规"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0109",
+    "stem": "某产品超出销售人员自身理解范围，较妥当的做法是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "补充学习、寻求专业支持后再准确说明"
+      },
+      {
+        "label": "B",
+        "text": "保证收益后再补学习"
+      },
+      {
+        "label": "C",
+        "text": "由客户承担全部理解责任"
+      },
+      {
+        "label": "D",
+        "text": "直接照搬最高收益宣传语"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-7",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "专业能力应与岗位和产品相匹配。",
+    "difficulty": 2,
+    "syllabusCode": "7.2.a—7.7.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "7.4.b 专业审慎"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0110",
+    "stem": "机构发现自身利益与客户利益冲突时应优先做什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "只维护股东收益"
+      },
+      {
+        "label": "B",
+        "text": "一律让客户承担损失"
+      },
+      {
+        "label": "C",
+        "text": "识别并按规定管理冲突，保护客户利益"
+      },
+      {
+        "label": "D",
+        "text": "完全隐瞒冲突"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-7",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "应妥善识别、管理及按规定披露利益冲突。",
+    "difficulty": 1,
+    "syllabusCode": "7.2.a—7.7.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "7.5.b 利益冲突"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0111",
+    "stem": "依法向监管机关提供要求的信息，是否当然违反保密义务？",
+    "options": [
+      {
+        "label": "A",
+        "text": "必须先向所有公众公开"
+      },
+      {
+        "label": "B",
+        "text": "只有客户书面批准后才能履行法定义务"
+      },
+      {
+        "label": "C",
+        "text": "任何披露都属于泄密"
+      },
+      {
+        "label": "D",
+        "text": "不当然违反，应依法配合并控制提供范围"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-7",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "保密应与法定报告、配合调查等义务协调履行。",
+    "difficulty": 1,
+    "syllabusCode": "7.2.a—7.7.b",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "7.7.b 保守秘密"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0112",
+    "stem": "某销售机构为争取交易机会，私下向客户经办人员支付财物，最应关注什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "商业贿赂风险"
+      },
+      {
+        "label": "B",
+        "text": "投资组合分散程度"
+      },
+      {
+        "label": "C",
+        "text": "正常基金托管费"
+      },
+      {
+        "label": "D",
+        "text": "基金资产估值差异"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-7",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "2025年修订的反不正当竞争法规范为谋取交易机会或竞争优势的商业贿赂。",
+    "difficulty": 2,
+    "syllabusCode": "7.3.e4",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "反不正当竞争法（2025修订）",
+        "url": "https://www.spp.gov.cn/tt/202506/t20250627_699860.shtml",
+        "locator": "第8条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "7.3.e4"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0113",
+    "stem": "关于交易折扣和中间人佣金，哪项做法符合透明要求？",
+    "options": [
+      {
+        "label": "A",
+        "text": "用个人账户秘密返还且不入账"
+      },
+      {
+        "label": "B",
+        "text": "只在销售群口头备案"
+      },
+      {
+        "label": "C",
+        "text": "按规定明示并如实入账"
+      },
+      {
+        "label": "D",
+        "text": "以顾问费名义隐瞒真实用途"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-7",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "合法折扣、佣金应与秘密回扣区分，依法明示和如实入账。",
+    "difficulty": 1,
+    "syllabusCode": "7.3.e4",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "反不正当竞争法（2025修订）",
+        "url": "https://www.spp.gov.cn/tt/202506/t20250627_699860.shtml",
+        "locator": "第8条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "7.3.e4"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0114",
+    "stem": "编造客户评价并组织虚假交易，帮助夸大销售业绩，主要涉及什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "合规的独立审计"
+      },
+      {
+        "label": "B",
+        "text": "正常风险揭示"
+      },
+      {
+        "label": "C",
+        "text": "依法提供投教服务"
+      },
+      {
+        "label": "D",
+        "text": "虚假或引人误解的商业宣传"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-7",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "不得通过虚假交易、虚假评价帮助他人作虚假或误导宣传。",
+    "difficulty": 1,
+    "syllabusCode": "7.3.e4",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "反不正当竞争法（2025修订）",
+        "url": "https://www.spp.gov.cn/tt/202506/t20250627_699860.shtml",
+        "locator": "第9条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "7.3.e4"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0115",
+    "stem": "以不正当手段获取并披露竞争对手的保密客户信息，应重点识别什么？",
+    "options": [
+      {
+        "label": "A",
+        "text": "普通公开信息使用"
+      },
+      {
+        "label": "B",
+        "text": "正常指数跟踪"
+      },
+      {
+        "label": "C",
+        "text": "侵犯商业秘密风险"
+      },
+      {
+        "label": "D",
+        "text": "正当资产配置"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-7",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "商业秘密的认定需满足法定条件，不能通过不正当手段获取、披露或使用。",
+    "difficulty": 1,
+    "syllabusCode": "7.3.e4",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "反不正当竞争法（2025修订）",
+        "url": "https://www.spp.gov.cn/tt/202506/t20250627_699860.shtml",
+        "locator": "第10条 商业秘密"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "7.3.e4"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0116",
+    "stem": "以下哪组完整对应中国特色金融文化的主要内涵？",
+    "options": [
+      {
+        "label": "A",
+        "text": "利润至上、关系优先、规避检查、内部共享、追逐热点"
+      },
+      {
+        "label": "B",
+        "text": "诚实守信、以义取利、稳健审慎、守正创新、依法合规"
+      },
+      {
+        "label": "C",
+        "text": "保本保收益、优先销售、降低披露、快速扩张、减少监督"
+      },
+      {
+        "label": "D",
+        "text": "收益优先、规模优先、短期排名、先做后审、风险外包"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-8",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "协会倡导这五个方面，应与具体经营和执业行为相结合。",
+    "difficulty": 1,
+    "syllabusCode": "8.1.b—8.3.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "协会：培育中国特色金融文化",
+        "url": "https://www.amac.org.cn/index/tzzfw/202409/t20240904_25972.html",
+        "locator": "中国特色金融文化"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "8.1.b—8.3.a"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0117",
+    "stem": "公司为追求短期排名大幅突破风险限额，最背离哪项文化要求？",
+    "options": [
+      {
+        "label": "A",
+        "text": "客户信息分类"
+      },
+      {
+        "label": "B",
+        "text": "技术文档规范"
+      },
+      {
+        "label": "C",
+        "text": "稳健审慎"
+      },
+      {
+        "label": "D",
+        "text": "诚实记录"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-8",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "稳健审慎强调防止急功近利，在风险可控下开展业务。",
+    "difficulty": 1,
+    "syllabusCode": "8.1.b—8.3.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "协会：培育中国特色金融文化",
+        "url": "https://www.amac.org.cn/index/tzzfw/202409/t20240904_25972.html",
+        "locator": "稳健审慎"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "8.1.b—8.3.a"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0118",
+    "stem": "销售人员为佣金向低风险承受客户推荐明显不匹配的产品，最背离什么要求？",
+    "options": [
+      {
+        "label": "A",
+        "text": "只有提高产品价格才算违规"
+      },
+      {
+        "label": "B",
+        "text": "客户买入后即不再有责任"
+      },
+      {
+        "label": "C",
+        "text": "只需提高宣传频次"
+      },
+      {
+        "label": "D",
+        "text": "以义取利并保护投资者利益"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-8",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "不能只为自身利益忽视投资者适当性与合法权益。",
+    "difficulty": 1,
+    "syllabusCode": "8.1.b—8.3.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "协会：培育中国特色金融文化",
+        "url": "https://www.amac.org.cn/index/tzzfw/202409/t20240904_25972.html",
+        "locator": "以义取利"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "8.1.b—8.3.a"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0119",
+    "stem": "使用新技术优化投研与服务时，正确做法是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "把短期炒作等同所有创新"
+      },
+      {
+        "label": "B",
+        "text": "先泄露客户数据再评估风险"
+      },
+      {
+        "label": "C",
+        "text": "以技术创新为由绕过监管"
+      },
+      {
+        "label": "D",
+        "text": "在合规边界内服务实体经济和客户需求"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-8",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "守正创新要求创新遵循正确方向与法治边界。",
+    "difficulty": 1,
+    "syllabusCode": "8.1.b—8.3.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "协会：培育中国特色金融文化",
+        "url": "https://www.amac.org.cn/index/tzzfw/202409/t20240904_25972.html",
+        "locator": "守正创新"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "8.1.b—8.3.a"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0120",
+    "stem": "某业务监管规则变化后，机构仍沿用旧流程，适当做法是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "只更新对外宣传年份"
+      },
+      {
+        "label": "B",
+        "text": "评估差异并及时更新制度与执行"
+      },
+      {
+        "label": "C",
+        "text": "只调整产品名称"
+      },
+      {
+        "label": "D",
+        "text": "以往未被处罚即可继续"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-8",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "依法合规要求跟踪生效规则并落实到日常流程。",
+    "difficulty": 2,
+    "syllabusCode": "8.1.b—8.3.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "协会：培育中国特色金融文化",
+        "url": "https://www.amac.org.cn/index/tzzfw/202409/t20240904_25972.html",
+        "locator": "依法合规"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "8.1.b—8.3.a"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0121",
+    "stem": "产品实际发生重大亏损时，符合文化要求的做法是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "编造稳定收益记录"
+      },
+      {
+        "label": "B",
+        "text": "以未经核实的未来收益掩盖当前损失"
+      },
+      {
+        "label": "C",
+        "text": "如实说明情况并依法依约履责"
+      },
+      {
+        "label": "D",
+        "text": "隐去亏损项目"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-8",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "诚信要求真实披露，不以误导性宣传替代受托履责。",
+    "difficulty": 1,
+    "syllabusCode": "8.1.b—8.3.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "协会：培育中国特色金融文化",
+        "url": "https://www.amac.org.cn/index/tzzfw/202409/t20240904_25972.html",
+        "locator": "诚实守信"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "8.1.b—8.3.a"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0122",
+    "stem": "对党员的纪律处分有哪五种？",
+    "options": [
+      {
+        "label": "A",
+        "text": "提醒、约谈、扣分、赔偿、撤资"
+      },
+      {
+        "label": "B",
+        "text": "警告、严重警告、撤销党内职务、留党察看、开除党籍"
+      },
+      {
+        "label": "C",
+        "text": "通报、罚款、降薪、停职、解聘"
+      },
+      {
+        "label": "D",
+        "text": "警告、罚金、拘役、管制、有期徒刑"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-8",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "党纪处分、组织处理、行政处罚与刑罚须分别理解。",
+    "difficulty": 1,
+    "syllabusCode": "8.3.c6",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "中国共产党纪律处分条例（2023修订）",
+        "url": "https://www.12371.cn/2023/12/27/ARTI1703689211048182.shtml",
+        "locator": "第8条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "8.3.c6"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0123",
+    "stem": "党纪处分条例分则规定的六项纪律包括？",
+    "options": [
+      {
+        "label": "A",
+        "text": "投资、研究、交易、清算、估值、托管纪律"
+      },
+      {
+        "label": "B",
+        "text": "政治、组织、廉洁、群众、工作、生活纪律"
+      },
+      {
+        "label": "C",
+        "text": "募集、销售、产品、技术、费用、收益纪律"
+      },
+      {
+        "label": "D",
+        "text": "法律、行政、公司、市场、客户、合同纪律"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-8",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "六项纪律为政治、组织、廉洁、群众、工作和生活纪律。",
+    "difficulty": 1,
+    "syllabusCode": "8.3.c6",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "中国共产党纪律处分条例（2023修订）",
+        "url": "https://www.12371.cn/2023/12/27/ARTI1703689211048182.shtml",
+        "locator": "分则第6—11章"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "8.3.c6"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0124",
+    "stem": "党纪处分条例适用的基本对象是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "仅公募基金经理"
+      },
+      {
+        "label": "B",
+        "text": "违犯党纪应受追究的党组织和党员"
+      },
+      {
+        "label": "C",
+        "text": "仅私募基金销售人员"
+      },
+      {
+        "label": "D",
+        "text": "所有基金投资者无差别适用党纪处分"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-8",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "党纪与基金从业监管是不同规范体系，应准确理解各自对象。",
+    "difficulty": 1,
+    "syllabusCode": "8.3.c6",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "中国共产党纪律处分条例（2023修订）",
+        "url": "https://www.12371.cn/2023/12/27/ARTI1703689211048182.shtml",
+        "locator": "第6条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "8.3.c6"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0125",
+    "stem": "中央八项规定中与会议和文件相关的要求包括？",
+    "options": [
+      {
+        "label": "A",
+        "text": "增加所有会议级别"
+      },
+      {
+        "label": "B",
+        "text": "用文件数量作为唯一政绩"
+      },
+      {
+        "label": "C",
+        "text": "精简会议活动、精简文件简报"
+      },
+      {
+        "label": "D",
+        "text": "以更多简报替代调研"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-8",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "改进作风强调务实高效，反对形式主义和文山会海。",
+    "difficulty": 1,
+    "syllabusCode": "8.3.b5",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "中央八项规定的八方面内容",
+        "url": "https://www.12371.cn/2025/05/16/ARTI1747376796229206.shtml",
+        "locator": "八项规定内容"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "8.3.b5"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0126",
+    "stem": "以下哪项属于中央八项规定的内容？",
+    "options": [
+      {
+        "label": "A",
+        "text": "取消全部金融监管"
+      },
+      {
+        "label": "B",
+        "text": "替代所有行业自律规范"
+      },
+      {
+        "label": "C",
+        "text": "厉行勤俭节约"
+      },
+      {
+        "label": "D",
+        "text": "保证每个投资项目盈利"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-8",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "八项规定包括改进调查研究、精简会议文件、厉行勤俭节约等方面。",
+    "difficulty": 1,
+    "syllabusCode": "8.3.b5",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "中央八项规定的八方面内容",
+        "url": "https://www.12371.cn/2025/05/16/ARTI1747376796229206.shtml",
+        "locator": "八项规定内容"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "8.3.b5"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k1-0127",
+    "stem": "对失职失责性质恶劣、后果严重者，退休或调离后是否仍可被问责？",
+    "options": [
+      {
+        "label": "A",
+        "text": "实行终身问责，符合条件仍应严肃问责"
+      },
+      {
+        "label": "B",
+        "text": "调离岗位即不得调查"
+      },
+      {
+        "label": "C",
+        "text": "是否问责只看现任职级"
+      },
+      {
+        "label": "D",
+        "text": "一经退休自动免责"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 1,
+    "subChapter": "s1-8",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点"
+    ],
+    "analysis": "第十六条明确终身问责，不因调离、提拔或退休免除。",
+    "difficulty": 1,
+    "syllabusCode": "8.3.d7",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "中国共产党问责条例",
+        "url": "https://www.12371.cn/2019/09/04/ARTI1567593093489593.shtml",
+        "locator": "第16条"
+      },
+      {
+        "title": "科目一考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf",
+        "locator": "8.3.d7"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  }
+]

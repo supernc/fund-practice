@@ -1,5 +1,6 @@
 import { Question } from '../types';
 import { getAllQuestions } from '../data';
+import { sampleExam } from './examSampling';
 
 // 按章节获取题目
 export function getQuestionsByChapter(chapter: number): Question[] {
@@ -88,8 +89,7 @@ export const EXAM_QUESTION_COUNT = 100;
 export function getExamQuestions(subject: 0 | 1 | 3 = 1): Question[] {
   const all = getAllQuestions();
   const pool = subject === 0 ? all : all.filter(q => q.chapter === subject);
-  const shuffled = shuffleArray(pool);
-  return shuffled.slice(0, Math.min(EXAM_QUESTION_COUNT, shuffled.length));
+  return sampleExam(pool, EXAM_QUESTION_COUNT);
 }
 
 // 根据 ID 获取题目
