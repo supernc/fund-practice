@@ -45,7 +45,7 @@ export default function PracticalPage() {
             <p className="text-sm text-text-secondary leading-relaxed">
               聚焦基金从业考试中的计算型考点——收益率、久期与凸性、基金份额净值与估值、
               夏普比率与业绩评价指标、期权内在价值等。答错后查看解析，把公式与口径一次性吃透，
-              这是科目三最容易失分的部分。
+              集中练习题库中的计算题；目前主要来自旧版科目一题库。
               <span className="text-text-muted ml-1">
                 · 共 {total} 道
               </span>

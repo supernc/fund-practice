@@ -1,6 +1,5 @@
 import { HashRouter, Routes, Route } from 'react-router-dom'
 import Layout from './components/layout/Layout'
-import PasswordGate from './components/auth/PasswordGate'
 import HomePage from './pages/HomePage'
 import ExamPage from './pages/ExamPage'
 import PracticePage from './pages/PracticePage'
@@ -13,7 +12,6 @@ import DataManagePage from './pages/DataManagePage'
 
 function App() {
   return (
-    <PasswordGate>
       <HashRouter>
         <Routes>
           <Route path="/" element={<Layout />}>
@@ -29,7 +27,6 @@ function App() {
           </Route>
         </Routes>
       </HashRouter>
-    </PasswordGate>
   )
 }
 
