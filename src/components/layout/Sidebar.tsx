@@ -25,6 +25,7 @@ const navItems = [
   { path: '/favorites', label: '收藏夹', icon: Star },
   { path: '/stats', label: '数据看板', icon: BarChart3 },
   { path: '/data', label: '数据管理', icon: Database },
+  { path: '/bank', label: '题库说明', icon: BookOpen },
 ];
 
 export default function Sidebar() {

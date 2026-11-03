@@ -4,6 +4,7 @@ import { getTotalCount } from '../services/questionService';
 import { FileText, BookOpen, Shuffle, ArrowRight, Trophy, AlertTriangle, Calculator } from 'lucide-react';
 import { chapters } from '../data/chapters';
 import { getCalcQuestions } from '../data';
+import manifest from '../data/bank-manifest.json';
 
 export default function HomePage() {
   const navigate = useNavigate();
@@ -54,8 +55,11 @@ export default function HomePage() {
           欢迎使用 <span className="gradient-text">基金从业刷题</span>
         </h1>
         <p className="text-sm text-text-secondary">
-          基金从业资格考试刷题平台 · 共 {totalQuestions} 道题 · 覆盖科目一与科目三；科目三按2026大纲编写，科目一旧题待逐题复核
+          2026大纲模拟题 · 科目一 {manifest.subjects['1']} 题 · 科目三 {manifest.subjects['3']} 题 · 共 {totalQuestions} 题
         </p>
+        <button onClick={() => navigate('/bank')} className="mt-3 text-xs text-primary-light hover:underline">
+          核对日期 {manifest.reviewedAt} · 查看题库来源与更新说明 →
+        </button>
       </div>
 
       {/* Quick actions */}

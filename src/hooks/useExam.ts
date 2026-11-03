@@ -2,12 +2,14 @@ import { useState, useCallback, useEffect, useRef } from 'react';
 import { Question, ExamRecord, ExamState } from '../types';
 import { generateExam, submitExam, isAnswerCorrect } from '../services/examService';
 import { addWrongQuestion, removeWrongQuestion, recordDailyAnswer, saveAnswerRecord } from '../services/storage';
+import manifest from '../data/bank-manifest.json';
 
-const EXAM_STATE_KEY = 'fund-exam-state';
+// 避免题库更新后恢复旧版本试卷中已经退出使用的题目。
+const EXAM_STATE_KEY = `fund-exam-state:${manifest.version}`;
 const EXAM_TIME = 120 * 60; // 120分钟模拟考试
 
 export default function useExam() {
-  // 记录本次考试的科目，用于交卷时标记（1 科目一 / 2 科目三 / 0 混合）
+  // 记录本次考试的科目，用于交卷时标记（1 科目一 / 3 科目三 / 0 混合）
   const subjectRef = useRef<0 | 1 | 3>(1);
   const [state, setState] = useState<ExamState>({
     status: 'idle',
@@ -26,6 +28,7 @@ export default function useExam() {
     const saved = sessionStorage.getItem(EXAM_STATE_KEY);
     if (saved) {
       const parsed = JSON.parse(saved);
+      subjectRef.current = parsed.subject === 0 || parsed.subject === 3 ? parsed.subject : 1;
       // 恢复 Set 类型
       parsed.markedQuestions = new Set(parsed.markedQuestions || []);
       // 计算剩余时间
@@ -41,6 +44,7 @@ export default function useExam() {
   const saveState = useCallback((newState: ExamState) => {
     const toSave = {
       ...newState,
+      subject: subjectRef.current,
       markedQuestions: Array.from(newState.markedQuestions),
     };
     sessionStorage.setItem(EXAM_STATE_KEY, JSON.stringify(toSave));

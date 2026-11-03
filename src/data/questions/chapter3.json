@@ -31,7 +31,18 @@
       "股权投资基金概述"
     ],
     "analysis": "股权投资基金主要投资于未上市企业股权。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第1章"
+      }
+    ],
+    "syllabusCode": "1.x"
   },
   {
     "id": "k3-0002",
@@ -65,7 +76,18 @@
       "股权投资基金概述"
     ],
     "analysis": "通常概括为募、投、管、退。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第1章"
+      }
+    ],
+    "syllabusCode": "1.x"
   },
   {
     "id": "k3-0003",
@@ -99,7 +121,18 @@
       "股权投资基金概述"
     ],
     "analysis": "管理人依基金合同管理财产，但不保证收益。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第1章"
+      }
+    ],
+    "syllabusCode": "1.x"
   },
   {
     "id": "k3-0004",
@@ -133,7 +166,18 @@
       "股权投资基金概述"
     ],
     "analysis": "未上市股权退出需要时间，流动性较低。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第1章"
+      }
+    ],
+    "syllabusCode": "1.x"
   },
   {
     "id": "k3-0005",
@@ -167,7 +211,18 @@
       "股权投资基金管理人"
     ],
     "analysis": "信义义务要求忠实、审慎和公平处理利益冲突。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第2章"
+      }
+    ],
+    "syllabusCode": "2.x"
   },
   {
     "id": "k3-0006",
@@ -201,7 +256,18 @@
       "股权投资基金管理人"
     ],
     "analysis": "基金财产应独立于管理人固有财产。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第2章"
+      }
+    ],
+    "syllabusCode": "2.x"
   },
   {
     "id": "k3-0007",
@@ -235,7 +301,18 @@
       "股权投资基金管理人"
     ],
     "analysis": "私募基金不得违规承诺保本保收益。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第2章"
+      }
+    ],
+    "syllabusCode": "2.x"
   },
   {
     "id": "k3-0008",
@@ -269,7 +346,18 @@
       "股权投资基金管理人"
     ],
     "analysis": "专业能力与风控能力是管理人履职基础。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第2章"
+      }
+    ],
+    "syllabusCode": "2.x"
   },
   {
     "id": "k3-0009",
@@ -303,7 +391,18 @@
       "股权投资基金产品"
     ],
     "analysis": "普通合伙人负责执行合伙事务。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第3章"
+      }
+    ],
+    "syllabusCode": "3.x"
   },
   {
     "id": "k3-0010",
@@ -337,7 +436,18 @@
       "股权投资基金产品"
     ],
     "analysis": "创业投资基金通常支持创新创业企业成长。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第3章"
+      }
+    ],
+    "syllabusCode": "3.x"
   },
   {
     "id": "k3-0011",
@@ -371,7 +481,18 @@
       "股权投资基金产品"
     ],
     "analysis": "母基金以投资子基金为主要方式。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第3章"
+      }
+    ],
+    "syllabusCode": "3.x"
   },
   {
     "id": "k3-0012",
@@ -405,7 +526,18 @@
       "股权投资基金产品"
     ],
     "analysis": "S基金聚焦私募股权基金二级市场交易。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第3章"
+      }
+    ],
+    "syllabusCode": "3.x"
   },
   {
     "id": "k3-0013",
@@ -439,7 +571,18 @@
       "股权投资基金的募集与设立"
     ],
     "analysis": "私募募集应遵守合格投资者及适当性要求。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第4章"
+      }
+    ],
+    "syllabusCode": "4.x"
   },
   {
     "id": "k3-0014",
@@ -473,7 +616,18 @@
       "股权投资基金的募集与设立"
     ],
     "analysis": "应履行了解投资者、适当性匹配和风险揭示义务。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第4章"
+      }
+    ],
+    "syllabusCode": "4.x"
   },
   {
     "id": "k3-0015",
@@ -507,7 +661,18 @@
       "股权投资基金的募集与设立"
     ],
     "analysis": "备案不构成对基金投资价值和收益的保证。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第4章"
+      }
+    ],
+    "syllabusCode": "4.x"
   },
   {
     "id": "k3-0016",
@@ -541,7 +706,18 @@
       "股权投资基金的募集与设立"
     ],
     "analysis": "募集材料应充分揭示风险，不得误导。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第4章"
+      }
+    ],
+    "syllabusCode": "4.x"
   },
   {
     "id": "k3-0017",
@@ -575,7 +751,18 @@
       "股权投资基金的投资"
     ],
     "analysis": "业务尽调关注经营与商业可行性。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第5章"
+      }
+    ],
+    "syllabusCode": "5.x"
   },
   {
     "id": "k3-0018",
@@ -609,7 +796,18 @@
       "股权投资基金的投资"
     ],
     "analysis": "财务尽调核实财务数据质量及经营现金流。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第5章"
+      }
+    ],
+    "syllabusCode": "5.x"
   },
   {
     "id": "k3-0019",
@@ -643,7 +841,18 @@
       "股权投资基金的投资"
     ],
     "analysis": "法律尽调识别权属和合规法律风险。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第5章"
+      }
+    ],
+    "syllabusCode": "5.x"
   },
   {
     "id": "k3-0020",
@@ -677,7 +886,18 @@
       "股权投资基金的投资"
     ],
     "analysis": "优先购买权一般用于股权转让场景。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第5章"
+      }
+    ],
+    "syllabusCode": "5.x"
   },
   {
     "id": "k3-0021",
@@ -711,7 +931,18 @@
       "股权投资基金的投资"
     ],
     "analysis": "股权价值通常可由企业价值减去净债务估算。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第5章"
+      }
+    ],
+    "syllabusCode": "5.x"
   },
   {
     "id": "k3-0022",
@@ -745,7 +976,18 @@
       "股权投资基金的投后管理"
     ],
     "analysis": "投后管理通常始于投资交割。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第6章"
+      }
+    ],
+    "syllabusCode": "6.x"
   },
   {
     "id": "k3-0023",
@@ -779,7 +1021,18 @@
       "股权投资基金的投后管理"
     ],
     "analysis": "增值服务可以包括治理改善和资源对接。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第6章"
+      }
+    ],
+    "syllabusCode": "6.x"
   },
   {
     "id": "k3-0024",
@@ -813,7 +1066,18 @@
       "股权投资基金的投后管理"
     ],
     "analysis": "持续获取经营和重大事项信息有助于识别风险。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第6章"
+      }
+    ],
+    "syllabusCode": "6.x"
   },
   {
     "id": "k3-0025",
@@ -847,7 +1111,18 @@
       "股权投资基金的投后管理"
     ],
     "analysis": "应及时核查并履行相应决策和披露程序。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第6章"
+      }
+    ],
+    "syllabusCode": "6.x"
   },
   {
     "id": "k3-0026",
@@ -881,7 +1156,18 @@
       "股权投资基金的项目退出"
     ],
     "analysis": "项目退出可通过上市转让、协议转让和清算等实现。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第7章"
+      }
+    ],
+    "syllabusCode": "7.x"
   },
   {
     "id": "k3-0027",
@@ -915,7 +1201,18 @@
       "股权投资基金的项目退出"
     ],
     "analysis": "回购退出需依据交易文件和适用法律。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第7章"
+      }
+    ],
+    "syllabusCode": "7.x"
   },
   {
     "id": "k3-0028",
@@ -949,7 +1246,18 @@
       "股权投资基金的项目退出"
     ],
     "analysis": "清算退出是通过企业清算收回剩余财产。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第7章"
+      }
+    ],
+    "syllabusCode": "7.x"
   },
   {
     "id": "k3-0029",
@@ -983,7 +1291,18 @@
       "股权投资基金的项目退出"
     ],
     "analysis": "两者对象和程序不同。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第7章"
+      }
+    ],
+    "syllabusCode": "7.x"
   },
   {
     "id": "k3-0030",
@@ -1017,7 +1336,18 @@
       "股权投资基金治理"
     ],
     "analysis": "基金治理应遵循公平对待投资者原则。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第8章"
+      }
+    ],
+    "syllabusCode": "8.x"
   },
   {
     "id": "k3-0031",
@@ -1051,7 +1381,18 @@
       "股权投资基金治理"
     ],
     "analysis": "及时、准确、完整披露是信息透明的重要要求。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第8章"
+      }
+    ],
+    "syllabusCode": "8.x"
   },
   {
     "id": "k3-0032",
@@ -1085,7 +1426,18 @@
       "股权投资基金治理"
     ],
     "analysis": "专业审慎要求充分调查、评估和规范决策。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第8章"
+      }
+    ],
+    "syllabusCode": "8.x"
   },
   {
     "id": "k3-0033",
@@ -1119,7 +1471,18 @@
       "股权投资基金治理"
     ],
     "analysis": "内部治理涉及决策、激励和监督约束。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第8章"
+      }
+    ],
+    "syllabusCode": "8.x"
   },
   {
     "id": "k3-0034",
@@ -1153,7 +1516,18 @@
       "股权投资基金的运营管理"
     ],
     "analysis": "托管人依法律和合同履行财产保管及监督职责。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第9章"
+      }
+    ],
+    "syllabusCode": "9.x"
   },
   {
     "id": "k3-0035",
@@ -1187,7 +1561,18 @@
       "股权投资基金的运营管理"
     ],
     "analysis": "DPI衡量已分配给投资者的金额相对实缴资本的倍数。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第9章"
+      }
+    ],
+    "syllabusCode": "9.x"
   },
   {
     "id": "k3-0036",
@@ -1221,7 +1606,18 @@
       "股权投资基金的运营管理"
     ],
     "analysis": "RVPI反映尚未分配的基金剩余价值。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第9章"
+      }
+    ],
+    "syllabusCode": "9.x"
   },
   {
     "id": "k3-0037",
@@ -1255,7 +1651,18 @@
       "股权投资基金的运营管理"
     ],
     "analysis": "TVPI由已分配倍数与剩余价值倍数构成。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第9章"
+      }
+    ],
+    "syllabusCode": "9.x"
   },
   {
     "id": "k3-0038",
@@ -1289,7 +1696,18 @@
       "股权投资基金的运营管理"
     ],
     "analysis": "信息披露应真实、准确、完整并按要求及时进行。 依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第9章"
+      }
+    ],
+    "syllabusCode": "9.x"
   },
   {
     "id": "k3-0039",
@@ -1323,7 +1741,18 @@
       "第1章"
     ],
     "analysis": "长期股权资本能够支持企业发展。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第1章"
+      }
+    ],
+    "syllabusCode": "1.x"
   },
   {
     "id": "k3-0040",
@@ -1357,7 +1786,18 @@
       "第1章"
     ],
     "analysis": "投资者与管理人的权利义务由法律和基金合同确定。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第1章"
+      }
+    ],
+    "syllabusCode": "1.x"
   },
   {
     "id": "k3-0041",
@@ -1391,7 +1831,18 @@
       "第1章"
     ],
     "analysis": "服务机构依职责和合同提供专业服务。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第1章"
+      }
+    ],
+    "syllabusCode": "1.x"
   },
   {
     "id": "k3-0042",
@@ -1425,7 +1876,18 @@
       "第1章"
     ],
     "analysis": "协会自律与行政监管共同构成行业治理。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第1章"
+      }
+    ],
+    "syllabusCode": "1.x"
   },
   {
     "id": "k3-0043",
@@ -1459,7 +1921,18 @@
       "第1章"
     ],
     "analysis": "股权投资面临较高不确定性。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第1章"
+      }
+    ],
+    "syllabusCode": "1.x"
   },
   {
     "id": "k3-0044",
@@ -1493,7 +1966,18 @@
       "第1章"
     ],
     "analysis": "退出是基金实现投资价值的重要环节。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第1章"
+      }
+    ],
+    "syllabusCode": "1.x"
   },
   {
     "id": "k3-0045",
@@ -1527,7 +2011,18 @@
       "第1章"
     ],
     "analysis": "基金从设立到清算经历完整运作周期。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第1章"
+      }
+    ],
+    "syllabusCode": "1.x"
   },
   {
     "id": "k3-0046",
@@ -1561,7 +2056,18 @@
       "第1章"
     ],
     "analysis": "监管与自律共同维护市场秩序。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第1章"
+      }
+    ],
+    "syllabusCode": "1.x"
   },
   {
     "id": "k3-0047",
@@ -1595,7 +2101,18 @@
       "第2章"
     ],
     "analysis": "忠实义务要求避免挪用和利益输送。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第2章"
+      }
+    ],
+    "syllabusCode": "2.x"
   },
   {
     "id": "k3-0048",
@@ -1629,7 +2146,18 @@
       "第2章"
     ],
     "analysis": "谨慎义务要求专业、审慎履职。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第2章"
+      }
+    ],
+    "syllabusCode": "2.x"
   },
   {
     "id": "k3-0049",
@@ -1663,7 +2191,18 @@
       "第2章"
     ],
     "analysis": "关联交易需要识别并妥善管理利益冲突。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第2章"
+      }
+    ],
+    "syllabusCode": "2.x"
   },
   {
     "id": "k3-0050",
@@ -1697,7 +2236,18 @@
       "第2章"
     ],
     "analysis": "内部控制有助于风险防范和规范运作。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第2章"
+      }
+    ],
+    "syllabusCode": "2.x"
   },
   {
     "id": "k3-0051",
@@ -1731,7 +2281,18 @@
       "第2章"
     ],
     "analysis": "合理授权和监督有助于防止权力失控。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第2章"
+      }
+    ],
+    "syllabusCode": "2.x"
   },
   {
     "id": "k3-0052",
@@ -1765,7 +2326,18 @@
       "第2章"
     ],
     "analysis": "及时报告是合规与风险管理要求。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第2章"
+      }
+    ],
+    "syllabusCode": "2.x"
   },
   {
     "id": "k3-0053",
@@ -1799,7 +2371,18 @@
       "第2章"
     ],
     "analysis": "费用和报酬应有合同依据并适当披露。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第2章"
+      }
+    ],
+    "syllabusCode": "2.x"
   },
   {
     "id": "k3-0054",
@@ -1833,7 +2416,18 @@
       "第2章"
     ],
     "analysis": "专业化要求组织和人员能力匹配所从事业务。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第2章"
+      }
+    ],
+    "syllabusCode": "2.x"
   },
   {
     "id": "k3-0055",
@@ -1867,7 +2461,18 @@
       "第3章"
     ],
     "analysis": "公司型基金以公司为组织形式。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第3章"
+      }
+    ],
+    "syllabusCode": "3.x"
   },
   {
     "id": "k3-0056",
@@ -1901,7 +2506,18 @@
       "第3章"
     ],
     "analysis": "有限合伙人通常以出资额为限承担责任。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第3章"
+      }
+    ],
+    "syllabusCode": "3.x"
   },
   {
     "id": "k3-0057",
@@ -1935,7 +2551,18 @@
       "第3章"
     ],
     "analysis": "契约型基金以基金合同为重要法律基础。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第3章"
+      }
+    ],
+    "syllabusCode": "3.x"
   },
   {
     "id": "k3-0058",
@@ -1969,7 +2596,18 @@
       "第3章"
     ],
     "analysis": "并购基金以企业并购及价值提升为主要方向。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第3章"
+      }
+    ],
+    "syllabusCode": "3.x"
   },
   {
     "id": "k3-0059",
@@ -2003,7 +2641,18 @@
       "第3章"
     ],
     "analysis": "母基金可通过子基金实现分散化。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第3章"
+      }
+    ],
+    "syllabusCode": "3.x"
   },
   {
     "id": "k3-0060",
@@ -2037,7 +2686,18 @@
       "第3章"
     ],
     "analysis": "投资者应关注母基金与底层基金的费用叠加。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第3章"
+      }
+    ],
+    "syllabusCode": "3.x"
   },
   {
     "id": "k3-0061",
@@ -2071,7 +2731,18 @@
       "第3章"
     ],
     "analysis": "政府投资基金发挥政策引导作用。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第3章"
+      }
+    ],
+    "syllabusCode": "3.x"
   },
   {
     "id": "k3-0062",
@@ -2105,7 +2776,18 @@
       "第3章"
     ],
     "analysis": "二级市场份额交易可提供流动性。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第3章"
+      }
+    ],
+    "syllabusCode": "3.x"
   },
   {
     "id": "k3-0063",
@@ -2139,7 +2821,18 @@
       "第4章"
     ],
     "analysis": "私募基金对投资者风险识别和承受能力有要求。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第4章"
+      }
+    ],
+    "syllabusCode": "4.x"
   },
   {
     "id": "k3-0064",
@@ -2173,7 +2866,18 @@
       "第4章"
     ],
     "analysis": "适当性要求把适当的产品销售给适当的投资者。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第4章"
+      }
+    ],
+    "syllabusCode": "4.x"
   },
   {
     "id": "k3-0065",
@@ -2207,7 +2911,18 @@
       "第4章"
     ],
     "analysis": "完整揭示风险不能只展示有利信息。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第4章"
+      }
+    ],
+    "syllabusCode": "4.x"
   },
   {
     "id": "k3-0066",
@@ -2241,7 +2956,18 @@
       "第4章"
     ],
     "analysis": "私募募集面向特定合格投资者。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第4章"
+      }
+    ],
+    "syllabusCode": "4.x"
   },
   {
     "id": "k3-0067",
@@ -2275,7 +3001,18 @@
       "第4章"
     ],
     "analysis": "出资安排应在合同中明确。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第4章"
+      }
+    ],
+    "syllabusCode": "4.x"
   },
   {
     "id": "k3-0068",
@@ -2309,7 +3046,18 @@
       "第4章"
     ],
     "analysis": "设立和备案属于不同环节。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第4章"
+      }
+    ],
+    "syllabusCode": "4.x"
   },
   {
     "id": "k3-0069",
@@ -2343,7 +3091,18 @@
       "第4章"
     ],
     "analysis": "投资者应在认购前了解费用安排。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第4章"
+      }
+    ],
+    "syllabusCode": "4.x"
   },
   {
     "id": "k3-0070",
@@ -2377,7 +3136,18 @@
       "第4章"
     ],
     "analysis": "合同和风险资料是理解权利义务的重要依据。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第4章"
+      }
+    ],
+    "syllabusCode": "4.x"
   },
   {
     "id": "k3-0071",
@@ -2411,7 +3181,18 @@
       "第5章"
     ],
     "analysis": "不同尽调维度共同支持投资判断。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第5章"
+      }
+    ],
+    "syllabusCode": "5.x"
   },
   {
     "id": "k3-0072",
@@ -2445,7 +3226,18 @@
       "第5章"
     ],
     "analysis": "市场乘数法参考可比交易或公司的估值水平。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第5章"
+      }
+    ],
+    "syllabusCode": "5.x"
   },
   {
     "id": "k3-0073",
@@ -2479,7 +3271,18 @@
       "第5章"
     ],
     "analysis": "折现率提高会降低未来现金流的现值。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第5章"
+      }
+    ],
+    "syllabusCode": "5.x"
   },
   {
     "id": "k3-0074",
@@ -2513,7 +3316,18 @@
       "第5章"
     ],
     "analysis": "最近融资价格需考虑交易条件和时效。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第5章"
+      }
+    ],
+    "syllabusCode": "5.x"
   },
   {
     "id": "k3-0075",
@@ -2547,7 +3361,18 @@
       "第5章"
     ],
     "analysis": "优先认购权通常涉及后续增资。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第5章"
+      }
+    ],
+    "syllabusCode": "5.x"
   },
   {
     "id": "k3-0076",
@@ -2581,7 +3406,18 @@
       "第5章"
     ],
     "analysis": "优先清算权影响特定退出事件的收益分配。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第5章"
+      }
+    ],
+    "syllabusCode": "5.x"
   },
   {
     "id": "k3-0077",
@@ -2615,7 +3451,18 @@
       "第5章"
     ],
     "analysis": "董事席位属于被投企业治理安排。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第5章"
+      }
+    ],
+    "syllabusCode": "5.x"
   },
   {
     "id": "k3-0078",
@@ -2649,7 +3496,18 @@
       "第5章"
     ],
     "analysis": "增资与老股转让的资金流向不同。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第5章"
+      }
+    ],
+    "syllabusCode": "5.x"
   },
   {
     "id": "k3-0079",
@@ -2683,7 +3541,18 @@
       "第6章"
     ],
     "analysis": "财务信息是风险监测的重要依据。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第6章"
+      }
+    ],
+    "syllabusCode": "6.x"
   },
   {
     "id": "k3-0080",
@@ -2717,7 +3586,18 @@
       "第6章"
     ],
     "analysis": "投后管理需要动态识别并应对偏差。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第6章"
+      }
+    ],
+    "syllabusCode": "6.x"
   },
   {
     "id": "k3-0081",
@@ -2751,7 +3631,18 @@
       "第6章"
     ],
     "analysis": "管理人可为企业发展提供资源支持。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第6章"
+      }
+    ],
+    "syllabusCode": "6.x"
   },
   {
     "id": "k3-0082",
@@ -2785,7 +3676,18 @@
       "第6章"
     ],
     "analysis": "重大事项按授权决策机制处理。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第6章"
+      }
+    ],
+    "syllabusCode": "6.x"
   },
   {
     "id": "k3-0083",
@@ -2819,7 +3721,18 @@
       "第6章"
     ],
     "analysis": "应在合法合约框架内获取信息。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第6章"
+      }
+    ],
+    "syllabusCode": "6.x"
   },
   {
     "id": "k3-0084",
@@ -2853,7 +3766,18 @@
       "第6章"
     ],
     "analysis": "并购项目价值提升依赖整合执行。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第6章"
+      }
+    ],
+    "syllabusCode": "6.x"
   },
   {
     "id": "k3-0085",
@@ -2887,7 +3811,18 @@
       "第6章"
     ],
     "analysis": "投后管理覆盖持有项目期间直至退出。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第6章"
+      }
+    ],
+    "syllabusCode": "6.x"
   },
   {
     "id": "k3-0086",
@@ -2921,7 +3856,18 @@
       "第6章"
     ],
     "analysis": "可根据项目风险状况配置投后资源。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第6章"
+      }
+    ],
+    "syllabusCode": "6.x"
   },
   {
     "id": "k3-0087",
@@ -2955,7 +3901,18 @@
       "第7章"
     ],
     "analysis": "上市需要满足相应市场规则。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第7章"
+      }
+    ],
+    "syllabusCode": "7.x"
   },
   {
     "id": "k3-0088",
@@ -2989,7 +3946,18 @@
       "第7章"
     ],
     "analysis": "上市并不意味着可立即无限制卖出。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第7章"
+      }
+    ],
+    "syllabusCode": "7.x"
   },
   {
     "id": "k3-0089",
@@ -3023,7 +3991,18 @@
       "第7章"
     ],
     "analysis": "协议转让通过与受让方达成交易实现退出。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第7章"
+      }
+    ],
+    "syllabusCode": "7.x"
   },
   {
     "id": "k3-0090",
@@ -3057,7 +4036,18 @@
       "第7章"
     ],
     "analysis": "回购安排需要评估执行与偿付能力。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第7章"
+      }
+    ],
+    "syllabusCode": "7.x"
   },
   {
     "id": "k3-0091",
@@ -3091,7 +4081,18 @@
       "第7章"
     ],
     "analysis": "清算分配受法定和约定顺序约束。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第7章"
+      }
+    ],
+    "syllabusCode": "7.x"
   },
   {
     "id": "k3-0092",
@@ -3125,7 +4126,18 @@
       "第7章"
     ],
     "analysis": "退出方案应综合考虑风险收益和执行条件。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第7章"
+      }
+    ],
+    "syllabusCode": "7.x"
   },
   {
     "id": "k3-0093",
@@ -3159,7 +4171,18 @@
       "第7章"
     ],
     "analysis": "不同交易场所的规则与流动性不同。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第7章"
+      }
+    ],
+    "syllabusCode": "7.x"
   },
   {
     "id": "k3-0094",
@@ -3193,7 +4216,18 @@
       "第7章"
     ],
     "analysis": "交易标的层级不同。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第7章"
+      }
+    ],
+    "syllabusCode": "7.x"
   },
   {
     "id": "k3-0095",
@@ -3227,7 +4261,18 @@
       "第8章"
     ],
     "analysis": "治理安排应尽量使各方利益一致。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第8章"
+      }
+    ],
+    "syllabusCode": "8.x"
   },
   {
     "id": "k3-0096",
@@ -3261,7 +4306,18 @@
       "第8章"
     ],
     "analysis": "重要事项与基金运作情况应按规定披露。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第8章"
+      }
+    ],
+    "syllabusCode": "8.x"
   },
   {
     "id": "k3-0097",
@@ -3295,7 +4351,18 @@
       "第8章"
     ],
     "analysis": "监督机制有助于受托人规范履职。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第8章"
+      }
+    ],
+    "syllabusCode": "8.x"
   },
   {
     "id": "k3-0098",
@@ -3329,7 +4396,18 @@
       "第8章"
     ],
     "analysis": "公司型基金投资者以股东身份参与相应治理。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第8章"
+      }
+    ],
+    "syllabusCode": "8.x"
   },
   {
     "id": "k3-0099",
@@ -3363,7 +4441,18 @@
       "第8章"
     ],
     "analysis": "合伙协议约定出资、决策和分配等事项。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第8章"
+      }
+    ],
+    "syllabusCode": "8.x"
   },
   {
     "id": "k3-0100",
@@ -3397,7 +4486,18 @@
       "第8章"
     ],
     "analysis": "明确机制可降低治理争议。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第8章"
+      }
+    ],
+    "syllabusCode": "8.x"
   },
   {
     "id": "k3-0101",
@@ -3431,7 +4531,18 @@
       "第8章"
     ],
     "analysis": "差异安排需要符合公平对待及披露要求。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第8章"
+      }
+    ],
+    "syllabusCode": "8.x"
   },
   {
     "id": "k3-0102",
@@ -3465,7 +4576,18 @@
       "第8章"
     ],
     "analysis": "治理关注权责配置、决策和监督。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 1
+    "difficulty": 1,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第8章"
+      }
+    ],
+    "syllabusCode": "8.x"
   },
   {
     "id": "k3-0103",
@@ -3499,7 +4621,18 @@
       "第9章"
     ],
     "analysis": "合理估值支持核算、披露与管理。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第9章"
+      }
+    ],
+    "syllabusCode": "9.x"
   },
   {
     "id": "k3-0104",
@@ -3533,7 +4666,18 @@
       "第9章"
     ],
     "analysis": "财务报告为投资者了解基金财务状况提供依据。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第9章"
+      }
+    ],
+    "syllabusCode": "9.x"
   },
   {
     "id": "k3-0105",
@@ -3564,10 +4708,22 @@
     "subChapter": "s3-9",
     "tags": [
       "2026大纲原创模拟",
-      "第9章"
+      "第9章",
+      "计算题"
     ],
     "analysis": "DPI只衡量已分配金额，不等同总收益或年化收益。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第9章"
+      }
+    ],
+    "syllabusCode": "9.x"
   },
   {
     "id": "k3-0106",
@@ -3598,10 +4754,22 @@
     "subChapter": "s3-9",
     "tags": [
       "2026大纲原创模拟",
-      "第9章"
+      "第9章",
+      "计算题"
     ],
     "analysis": "TVPI=DPI+RVPI=1.4。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第9章"
+      }
+    ],
+    "syllabusCode": "9.x"
   },
   {
     "id": "k3-0107",
@@ -3635,7 +4803,18 @@
       "第9章"
     ],
     "analysis": "清算须处理资产、负债及剩余财产。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第9章"
+      }
+    ],
+    "syllabusCode": "9.x"
   },
   {
     "id": "k3-0108",
@@ -3669,7 +4848,18 @@
       "第9章"
     ],
     "analysis": "份额转让需遵守合同和适用规则。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第9章"
+      }
+    ],
+    "syllabusCode": "9.x"
   },
   {
     "id": "k3-0109",
@@ -3703,7 +4893,18 @@
       "第9章"
     ],
     "analysis": "信息报送与向投资者披露是不同义务。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第9章"
+      }
+    ],
+    "syllabusCode": "9.x"
   },
   {
     "id": "k3-0110",
@@ -3737,6 +4938,1201 @@
       "第9章"
     ],
     "analysis": "争议可依合同和法律采用不同解决方式。  考点依据：中国证券投资基金业协会《私募股权投资基金基础知识考试大纲（2026年度修订）》。",
-    "difficulty": 2
+    "difficulty": 2,
+    "reviewedAt": "2026-11-03",
+    "bankVersion": "2026.11.03",
+    "reviewScope": "2026大纲考点映射；基础概念模拟题，未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "第9章"
+      }
+    ],
+    "syllabusCode": "9.x"
+  },
+  {
+    "id": "v20261103-k3-0111",
+    "stem": "私募股权基金2026年9月后的常规定期报告组合是？",
+    "options": [
+      {
+        "label": "A",
+        "text": "周度报告和年度报告"
+      },
+      {
+        "label": "B",
+        "text": "半年度报告和年度报告"
+      },
+      {
+        "label": "C",
+        "text": "仅季度报告"
+      },
+      {
+        "label": "D",
+        "text": "月度报告和季度报告"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-9",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "新细则规定私募股权基金半年度及年度报告；创业投资基金半年度报告为鼓励披露。",
+    "difficulty": 2,
+    "syllabusCode": "9.7.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第23条、第32条"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0112",
+    "stem": "私募股权基金半年度报告向投资者披露的最长期限为半年结束后？",
+    "options": [
+      {
+        "label": "A",
+        "text": "两个月内"
+      },
+      {
+        "label": "B",
+        "text": "四个月内"
+      },
+      {
+        "label": "C",
+        "text": "一个月内"
+      },
+      {
+        "label": "D",
+        "text": "十个工作日内"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-9",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "新细则第二十三条规定两个月内。",
+    "difficulty": 2,
+    "syllabusCode": "9.7.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第23条"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0113",
+    "stem": "私募股权基金年度报告应在年度结束后多久内披露？",
+    "options": [
+      {
+        "label": "A",
+        "text": "两个月内"
+      },
+      {
+        "label": "B",
+        "text": "六个月内"
+      },
+      {
+        "label": "C",
+        "text": "一个月内"
+      },
+      {
+        "label": "D",
+        "text": "四个月内"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-9",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "新细则第三十二条规定六个月内；不能与私募证券基金的四个月混淆。",
+    "difficulty": 2,
+    "syllabusCode": "9.7.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第32条"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0114",
+    "stem": "关于创业投资基金半年度报告，2026年细则如何安排？",
+    "options": [
+      {
+        "label": "A",
+        "text": "免除所有年度报告"
+      },
+      {
+        "label": "B",
+        "text": "不得自愿披露"
+      },
+      {
+        "label": "C",
+        "text": "鼓励披露"
+      },
+      {
+        "label": "D",
+        "text": "必须每周披露"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-9",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "创业投资基金年度报告仍须依规定披露，半年度报告属于鼓励披露安排。",
+    "difficulty": 2,
+    "syllabusCode": "9.7.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第37条"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0115",
+    "stem": "已或可能对投资者权益产生重大影响的规定事项发生后，临时报告一般应在多久内披露？",
+    "options": [
+      {
+        "label": "A",
+        "text": "十个自然日内"
+      },
+      {
+        "label": "B",
+        "text": "两个月内"
+      },
+      {
+        "label": "C",
+        "text": "年度报告发布时"
+      },
+      {
+        "label": "D",
+        "text": "五个工作日内"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-9",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "细则第三十八条规定事项发生之日起五个工作日内向投资者披露。",
+    "difficulty": 2,
+    "syllabusCode": "9.7.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第38条"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0116",
+    "stem": "管理人完成协会备份平台上传，是否就视为完成投资者信息披露？",
+    "options": [
+      {
+        "label": "A",
+        "text": "是，只需向协会说明"
+      },
+      {
+        "label": "B",
+        "text": "是，无需提供其他渠道"
+      },
+      {
+        "label": "C",
+        "text": "是，上传即完成"
+      },
+      {
+        "label": "D",
+        "text": "不能，仅备份不替代投资者披露"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-9",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "备份平台用于备份和查询，不作为信息披露渠道。",
+    "difficulty": 2,
+    "syllabusCode": "9.7.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第43条"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0117",
+    "stem": "基金信息披露资料自清算结束起至少保存多久？",
+    "options": [
+      {
+        "label": "A",
+        "text": "三年"
+      },
+      {
+        "label": "B",
+        "text": "十年"
+      },
+      {
+        "label": "C",
+        "text": "五年"
+      },
+      {
+        "label": "D",
+        "text": "二十年"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-9",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "细则第四十五条规定保存期限不少于二十年。",
+    "difficulty": 2,
+    "syllabusCode": "9.7.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第45条"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0118",
+    "stem": "私募股权基金年度财务会计报告的审计要求，哪项正确？",
+    "options": [
+      {
+        "label": "A",
+        "text": "应经会计师事务所审计"
+      },
+      {
+        "label": "B",
+        "text": "仅发生亏损才需审计"
+      },
+      {
+        "label": "C",
+        "text": "由投资者投票决定是否遵守"
+      },
+      {
+        "label": "D",
+        "text": "只要管理人签字即可免审"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-9",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "第三十三条规定应审计，并对审计报告全文及意见的披露提出要求。",
+    "difficulty": 2,
+    "syllabusCode": "9.7.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第33条"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0119",
+    "stem": "私募股权基金规模超过一亿元且自然人投资者二十人以上，其年度财务报告审计机构有何要求？",
+    "options": [
+      {
+        "label": "A",
+        "text": "任何自然人签字即可"
+      },
+      {
+        "label": "B",
+        "text": "必须由托管人销售部门审计"
+      },
+      {
+        "label": "C",
+        "text": "应为符合证券法规定的会计师事务所"
+      },
+      {
+        "label": "D",
+        "text": "必须由管理人内部会计审计"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-9",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "该条要求由符合证券法规定的会计师事务所审计，不能省略两个条件。",
+    "difficulty": 2,
+    "syllabusCode": "9.7.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第36条"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0120",
+    "stem": "基金信息披露模板没有列明但会重大影响投资者决策的信息，应如何处理？",
+    "options": [
+      {
+        "label": "A",
+        "text": "仍应披露"
+      },
+      {
+        "label": "B",
+        "text": "只向关联投资者披露"
+      },
+      {
+        "label": "C",
+        "text": "只在协会检查时披露"
+      },
+      {
+        "label": "D",
+        "text": "可以永久不披露"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-9",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "模板是最低要求，不是可以不披露其他重大信息的理由。",
+    "difficulty": 2,
+    "syllabusCode": "9.7.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第42条"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0121",
+    "stem": "基金清算持续超过一年，管理人应如何履行持续披露？",
+    "options": [
+      {
+        "label": "A",
+        "text": "只须每三年披露一次"
+      },
+      {
+        "label": "B",
+        "text": "此时不再有披露义务"
+      },
+      {
+        "label": "C",
+        "text": "每年至少披露一次清算有关事项"
+      },
+      {
+        "label": "D",
+        "text": "等全部资产出售后再披露"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-9",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "长期清算仍有持续披露要求。",
+    "difficulty": 2,
+    "syllabusCode": "9.7.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第39条"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0122",
+    "stem": "向境内投资者披露私募基金信息，文本语言原则上如何要求？",
+    "options": [
+      {
+        "label": "A",
+        "text": "有外文就不需要中文"
+      },
+      {
+        "label": "B",
+        "text": "只能使用英文"
+      },
+      {
+        "label": "C",
+        "text": "两种语言内容可以不同"
+      },
+      {
+        "label": "D",
+        "text": "采用中文；同时使用外文的应保证内容一致"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-9",
+    "tags": [
+      "2026大纲模拟",
+      "规则更新"
+    ],
+    "analysis": "新细则要求使用中文文本，外文文本内容须一致。",
+    "difficulty": 2,
+    "syllabusCode": "9.7.a",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "私募投资基金信息披露实施细则（2026）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf",
+        "locator": "第44条"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0123",
+    "stem": "某企业可持续净利润为800万元，可比市盈率为12倍。忽略其他调整，其股权价值估算为多少？",
+    "options": [
+      {
+        "label": "A",
+        "text": "9600万元"
+      },
+      {
+        "label": "B",
+        "text": "800万元"
+      },
+      {
+        "label": "C",
+        "text": "1200万元"
+      },
+      {
+        "label": "D",
+        "text": "6600万元"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-5",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点",
+      "计算题"
+    ],
+    "analysis": "市盈率法股权价值=净利润×市盈率=800×12=9600万元。",
+    "difficulty": 2,
+    "syllabusCode": "5.3.b—5.3.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "5.3.b 市场乘数法"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0124",
+    "stem": "企业净利润500万元，参考市盈率10倍，投资者购买20%的老股且无折溢价，理论支付价款为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "500万元"
+      },
+      {
+        "label": "B",
+        "text": "1000万元"
+      },
+      {
+        "label": "C",
+        "text": "5000万元"
+      },
+      {
+        "label": "D",
+        "text": "2500万元"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-5",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点",
+      "计算题"
+    ],
+    "analysis": "股权估值=500×10=5000万元，20%老股对价=1000万元，注意不是增资后持股计算。",
+    "difficulty": 1,
+    "syllabusCode": "5.3.b—5.3.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "5.3.b 市场乘数法"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0125",
+    "stem": "企业价值1亿元，有息债务3000万元，现金1000万元。忽略其他调整，股权价值约为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "8000万元"
+      },
+      {
+        "label": "B",
+        "text": "1.4亿元"
+      },
+      {
+        "label": "C",
+        "text": "1.2亿元"
+      },
+      {
+        "label": "D",
+        "text": "6000万元"
+      }
+    ],
+    "answer": [
+      "A"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-5",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点",
+      "计算题"
+    ],
+    "analysis": "净债务=3000-1000=2000万元，股权价值=企业价值-净债务=8000万元。",
+    "difficulty": 1,
+    "syllabusCode": "5.3.b—5.3.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "5.3.a 企业价值与股权价值"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0126",
+    "stem": "企业股权价值6000万元，净债务1500万元，企业价值约为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "9000万元"
+      },
+      {
+        "label": "B",
+        "text": "6000万元"
+      },
+      {
+        "label": "C",
+        "text": "4500万元"
+      },
+      {
+        "label": "D",
+        "text": "7500万元"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-5",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点",
+      "计算题"
+    ],
+    "analysis": "企业价值=股权价值+净债务=7500万元。",
+    "difficulty": 1,
+    "syllabusCode": "5.3.b—5.3.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "5.3.a 企业价值与股权价值"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0127",
+    "stem": "一年后可取得1100万元现金流，折现率10%，无其他现金流。其现值为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "1210万元"
+      },
+      {
+        "label": "B",
+        "text": "1100万元"
+      },
+      {
+        "label": "C",
+        "text": "1000万元"
+      },
+      {
+        "label": "D",
+        "text": "990万元"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-5",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点",
+      "计算题"
+    ],
+    "analysis": "现值=1100÷1.10=1000万元。此处为单期折现，未设置终值。",
+    "difficulty": 1,
+    "syllabusCode": "5.3.b—5.3.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "5.3.c 现金流折现"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0128",
+    "stem": "两年后取得1210万元现金流，年折现率10%，其现值为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "1464.1万元"
+      },
+      {
+        "label": "B",
+        "text": "1100万元"
+      },
+      {
+        "label": "C",
+        "text": "980.1万元"
+      },
+      {
+        "label": "D",
+        "text": "1000万元"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-5",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点",
+      "计算题"
+    ],
+    "analysis": "现值=1210÷1.10²=1000万元，不能只除以1.10一次。",
+    "difficulty": 1,
+    "syllabusCode": "5.3.b—5.3.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "5.3.c 现金流折现"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0129",
+    "stem": "企业投前股权估值6000万元，新投资者增资2000万元，无其他股权变化，投后持股比例为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "40%"
+      },
+      {
+        "label": "B",
+        "text": "33.33%"
+      },
+      {
+        "label": "C",
+        "text": "20%"
+      },
+      {
+        "label": "D",
+        "text": "25%"
+      }
+    ],
+    "answer": [
+      "D"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-5",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点",
+      "计算题"
+    ],
+    "analysis": "投后估值=6000+2000=8000万元，新投资者持股=2000÷8000=25%。",
+    "difficulty": 1,
+    "syllabusCode": "5.3.b—5.3.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "5.3.b 增资估值"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0130",
+    "stem": "企业投后估值1亿元，新投资者增资2000万元，投前估值为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "1.2亿元"
+      },
+      {
+        "label": "B",
+        "text": "2000万元"
+      },
+      {
+        "label": "C",
+        "text": "8000万元"
+      },
+      {
+        "label": "D",
+        "text": "5000万元"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-5",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点",
+      "计算题"
+    ],
+    "analysis": "在无其他股权变化假设下，投前估值=投后估值-新增投资=8000万元。",
+    "difficulty": 1,
+    "syllabusCode": "5.3.b—5.3.d",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "5.3.b 增资估值"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0131",
+    "stem": "基金投资者累计实缴2000万元，已收到分配1200万元。DPI为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "0.4倍"
+      },
+      {
+        "label": "B",
+        "text": "0.6倍"
+      },
+      {
+        "label": "C",
+        "text": "1.67倍"
+      },
+      {
+        "label": "D",
+        "text": "1.6倍"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-9",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点",
+      "计算题"
+    ],
+    "analysis": "DPI=累计分配÷累计实缴=1200÷2000=0.6倍。",
+    "difficulty": 1,
+    "syllabusCode": "9.3.e—9.3.g",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "9.3.f DPI"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0132",
+    "stem": "基金投资者累计实缴2000万元，剩余权益价值1800万元。RVPI为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "1.9倍"
+      },
+      {
+        "label": "B",
+        "text": "0.1倍"
+      },
+      {
+        "label": "C",
+        "text": "0.9倍"
+      },
+      {
+        "label": "D",
+        "text": "1.11倍"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-9",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点",
+      "计算题"
+    ],
+    "analysis": "RVPI=剩余权益价值÷累计实缴=1800÷2000=0.9倍。",
+    "difficulty": 1,
+    "syllabusCode": "9.3.e—9.3.g",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "9.3.g RVPI"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0133",
+    "stem": "基金累计实缴2000万元，已分配1200万元，剩余权益价值1800万元。TVPI为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "0.6倍"
+      },
+      {
+        "label": "B",
+        "text": "1.5倍"
+      },
+      {
+        "label": "C",
+        "text": "0.9倍"
+      },
+      {
+        "label": "D",
+        "text": "2.5倍"
+      }
+    ],
+    "answer": [
+      "B"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-9",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点",
+      "计算题"
+    ],
+    "analysis": "TVPI=(分配+剩余价值)÷实缴=(1200+1800)÷2000=1.5倍。",
+    "difficulty": 1,
+    "syllabusCode": "9.3.e—9.3.g",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "9.3.g TVPI"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0134",
+    "stem": "投资者期初投入100万元，一年后收回110万元，期间无其他现金流。该投资内部收益率为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "9.09%"
+      },
+      {
+        "label": "B",
+        "text": "110%"
+      },
+      {
+        "label": "C",
+        "text": "10%"
+      },
+      {
+        "label": "D",
+        "text": "11%"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-9",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点",
+      "计算题"
+    ],
+    "analysis": "单期内部收益率由-100+110÷(1+r)=0求得，r=10%。",
+    "difficulty": 1,
+    "syllabusCode": "9.3.e—9.3.g",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "9.3.e IRR"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0135",
+    "stem": "投资者期初投入100万元，两年后收回121万元，期间无其他现金流。年化内部收益率为？",
+    "options": [
+      {
+        "label": "A",
+        "text": "9.09%"
+      },
+      {
+        "label": "B",
+        "text": "21%"
+      },
+      {
+        "label": "C",
+        "text": "10%"
+      },
+      {
+        "label": "D",
+        "text": "10.5%"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-9",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点",
+      "计算题"
+    ],
+    "analysis": "100×(1+r)²=121，年化r=10%；不能把两年总收益率21%直接当作年化。",
+    "difficulty": 1,
+    "syllabusCode": "9.3.e—9.3.g",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "9.3.e IRR"
+      }
+    ],
+    "bankVersion": "2026.11.03"
+  },
+  {
+    "id": "v20261103-k3-0136",
+    "stem": "两个项目的总收益倍数均为2倍，一个持有2年，另一个持有5年。哪项判断准确？",
+    "options": [
+      {
+        "label": "A",
+        "text": "持有越久年化必然更高"
+      },
+      {
+        "label": "B",
+        "text": "总收益倍数就是内部收益率"
+      },
+      {
+        "label": "C",
+        "text": "仅凭倍数不能认为两者年化收益率相同"
+      },
+      {
+        "label": "D",
+        "text": "两者年化收益率必然相同"
+      }
+    ],
+    "answer": [
+      "C"
+    ],
+    "type": "single",
+    "chapter": 3,
+    "subChapter": "s3-9",
+    "tags": [
+      "2026大纲模拟",
+      "基础考点",
+      "计算题"
+    ],
+    "analysis": "倍数不直接反映时间价值，评价还需考察现金流时间。",
+    "difficulty": 1,
+    "syllabusCode": "9.3.e—9.3.g",
+    "reviewedAt": "2026-11-03",
+    "reviewScope": "考点及所列规则核对；模拟题未经官方审定",
+    "sources": [
+      {
+        "title": "科目三考试大纲（2026年度修订）",
+        "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf",
+        "locator": "9.3.g 收益倍数"
+      }
+    ],
+    "bankVersion": "2026.11.03"
   }
 ]

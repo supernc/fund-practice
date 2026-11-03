@@ -17,6 +17,11 @@ export interface Question {
   analysis: string;              // 解析文本
   wikiUrl?: string;              // 对应 Wiki 页面链接
   difficulty: 1 | 2 | 3;        // 难度等级
+  syllabusCode?: string;
+  reviewedAt?: string;
+  reviewScope?: string;
+  bankVersion?: string;
+  sources?: { title: string; url: string; locator: string }[];
 }
 
 // 考试记录

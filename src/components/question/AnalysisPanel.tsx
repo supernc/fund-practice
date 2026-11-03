@@ -8,6 +8,9 @@ interface AnalysisPanelProps {
   analysis: string;
   tags: string[];
   wikiUrl?: string;
+  sources?: { title: string; url: string; locator: string }[];
+  reviewedAt?: string;
+  syllabusCode?: string;
 }
 
 export default function AnalysisPanel({
@@ -17,6 +20,9 @@ export default function AnalysisPanel({
   analysis,
   tags,
   wikiUrl,
+  sources,
+  reviewedAt,
+  syllabusCode,
 }: AnalysisPanelProps) {
   return (
     <div className="mt-4 rounded-xl bg-bg-card/50 border border-white/5 overflow-hidden animate-slide-up">
@@ -50,6 +56,23 @@ export default function AnalysisPanel({
           <h4 className="text-xs font-semibold text-text-secondary mb-2 uppercase tracking-wider">解析</h4>
           <p className="text-sm text-text-primary leading-relaxed whitespace-pre-line">{analysis}</p>
         </div>
+
+        {sources && sources.length > 0 && (
+          <div className="space-y-2 border-t border-white/10 pt-3">
+            <h4 className="text-xs font-semibold text-text-secondary">
+              考点与规则依据 · 核对日期 {reviewedAt}
+              {syllabusCode && <span className="ml-2">考点 {syllabusCode}</span>}
+            </h4>
+            {sources.map((source, i) => (
+              <a key={`${source.url}-${i}`} href={source.url} target="_blank" rel="noopener noreferrer"
+                className="flex items-start gap-1.5 text-xs text-primary-light hover:underline">
+                <ExternalLink size={12} className="mt-0.5 shrink-0" />
+                <span>{source.title} · {source.locator}</span>
+              </a>
+            ))}
+            <p className="text-xs text-text-muted">大纲链接用于定位考点；规则链接用于核对相应规定。题目为自行编写的模拟题。</p>
+          </div>
+        )}
 
         {/* Tags */}
         {tags.length > 0 && (

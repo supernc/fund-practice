@@ -26,9 +26,9 @@ export default function ExamPage() {
   };
 
   const subjectOptions: { key: 0 | 1 | 3; name: string; full: string }[] = [
-    { key: 1, name: '科目一', full: '基金法律法规、职业道德与业务规范' },
+    { key: 1, name: '科目一', full: '基金基础知识与法律法规' },
     { key: 3, name: '科目三', full: '私募股权投资基金基础知识' },
-    { key: 0, name: '两科混合', full: '随机抽题，难度更高' },
+    { key: 0, name: '两科混合', full: '跨科目综合练习' },
   ];
 
   // 考试前 - 须知页面

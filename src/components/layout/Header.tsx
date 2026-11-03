@@ -12,6 +12,7 @@ const pageTitles: Record<string, string> = {
   '/wrong': '错题本',
   '/favorites': '收藏夹',
   '/stats': '数据看板',
+  '/bank': '题库说明',
 };
 
 export default function Header() {

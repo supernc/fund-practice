@@ -1,15 +1,15 @@
 import { ChapterInfo } from '../types';
 
 // 基金从业资格考试 · 两个科目
-// 科目一《基金法律法规、职业道德与业务规范》 —— 必考
+// 科目一《基金基础知识与法律法规》 —— 必考
 // 科目三《私募股权投资基金基础知识》 —— 选考（私募股权方向）
 export const chapters: ChapterInfo[] = [
   {
     id: 1,
-    name: '科目一 · 基金法律法规、职业道德与业务规范',
+    name: '科目一 · 基金基础知识与法律法规',
     description: '金融市场与资产管理、基金概述、法律法规与监管体系、从业人员法规要求、基金活动规范、合规与内控、职业道德、行业文化',
     weight: 50,
-    wikiUrl: '',
+    wikiUrl: 'https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf',
     subChapters: [
       { id: 's1-1', name: '第1章 金融市场与资产管理', wikiUrl: '' },
       { id: 's1-2', name: '第2章 基金概述', wikiUrl: '' },

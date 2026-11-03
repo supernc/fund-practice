@@ -165,6 +165,9 @@ export default function QuestionCard({
           analysis={question.analysis}
           tags={question.tags}
           wikiUrl={question.wikiUrl}
+          sources={question.sources}
+          reviewedAt={question.reviewedAt}
+          syllabusCode={question.syllabusCode}
         />
       )}
 

@@ -1,0 +1,119 @@
+{
+  "version": "2026.11.03",
+  "reviewedAt": "2026-11-03",
+  "subjects": {
+    "1": 127,
+    "3": 136
+  },
+  "retiredLegacyQuestions": 985,
+  "scope": "当前默认题库为2026大纲原创模拟题；新规题逐题附生效规则，基础概念题附官方大纲或投教依据。非官方题库，未经官方审定。",
+  "changes": [
+    {
+      "id": "k1-0690",
+      "reason": "旧答案为私募股权季报及年报；新细则规定半年度及年度报告。",
+      "source": "disclosure2026"
+    },
+    {
+      "id": "k1-0693",
+      "reason": "旧题笼统把月报列为所有私募证券基金定期报告，未区分净值披露与定期报告；已按新细则重编。",
+      "source": "disclosure2026"
+    },
+    {
+      "id": "k1-0200",
+      "reason": "引用2016年信息披露办法；该办法自2026年9月1日起废止。",
+      "source": "disclosure2026"
+    },
+    {
+      "id": "k1-0367",
+      "reason": "沿用2022年绩效考核与薪酬指引名称和口径；已换为2026年新指引题。",
+      "source": "pay2026"
+    },
+    {
+      "id": "k1-0370",
+      "reason": "解析同时出现旧题20个月和教材24个月，题干与解释口径混杂，停止使用。",
+      "source": "outline1"
+    }
+  ],
+  "sources": [
+    {
+      "id": "outline1",
+      "title": "科目一考试大纲（2026年度修订）",
+      "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995319242.pdf"
+    },
+    {
+      "id": "outline3",
+      "title": "科目三考试大纲（2026年度修订）",
+      "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260630399995526911.pdf"
+    },
+    {
+      "id": "fundlaw",
+      "title": "中华人民共和国证券投资基金法",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2023/art_f70635e95c74402c878c9f9a0a362c16.html"
+    },
+    {
+      "id": "classification",
+      "title": "证监会：如何对基金产品进行分类",
+      "url": "https://www.csrc.gov.cn/guangdong/c105589/c31725464ec11439cadd8e6496673031f/content.shtml"
+    },
+    {
+      "id": "operations",
+      "title": "公开募集证券投资基金运作管理办法",
+      "url": "https://www.csrc.gov.cn/csrc/c106256/c1653978/content.shtml"
+    },
+    {
+      "id": "custody",
+      "title": "证券投资基金托管业务管理办法",
+      "url": "https://www.csrc.gov.cn/csrc/c106256/c1653705/content.shtml"
+    },
+    {
+      "id": "pay2026",
+      "title": "基金管理公司绩效考核管理指引（2026）",
+      "url": "https://www.amac.org.cn/xwfb/xhyw/202604/P020260417619131260676.pdf"
+    },
+    {
+      "id": "disclosure2026",
+      "title": "私募投资基金信息披露实施细则（2026）",
+      "url": "https://www.amac.org.cn/xwfb/tzgg/202606/P020260605683618804893.pdf"
+    },
+    {
+      "id": "aml",
+      "title": "反洗钱法（2024修订，2025年施行）",
+      "url": "https://www.samr.gov.cn/zw/zfxxgk/fdzdgknr/bgt/art/2025/art_cfcc31edf0a64744bb5d7ff1307c0356.html"
+    },
+    {
+      "id": "competition",
+      "title": "反不正当竞争法（2025修订）",
+      "url": "https://www.spp.gov.cn/tt/202506/t20250627_699860.shtml"
+    },
+    {
+      "id": "compliance",
+      "title": "证券公司和证券投资基金管理公司合规管理办法",
+      "url": "https://www.csrc.gov.cn/csrc/c106256/c1653949/content.shtml"
+    },
+    {
+      "id": "culture",
+      "title": "协会：培育中国特色金融文化",
+      "url": "https://www.amac.org.cn/index/tzzfw/202409/t20240904_25972.html"
+    },
+    {
+      "id": "discipline",
+      "title": "中国共产党纪律处分条例（2023修订）",
+      "url": "https://www.12371.cn/2023/12/27/ARTI1703689211048182.shtml"
+    },
+    {
+      "id": "accountability",
+      "title": "中国共产党问责条例",
+      "url": "https://www.12371.cn/2019/09/04/ARTI1567593093489593.shtml"
+    },
+    {
+      "id": "eight",
+      "title": "中央八项规定的八方面内容",
+      "url": "https://www.12371.cn/2025/05/16/ARTI1747376796229206.shtml"
+    },
+    {
+      "id": "registration",
+      "title": "基金业协会资格注册服务指南",
+      "url": "https://www.amac.org.cn/fwdt/wyb/rygl/cyryzggl/zgglfwzn/"
+    }
+  ]
+}
