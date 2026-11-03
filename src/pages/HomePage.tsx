@@ -14,7 +14,7 @@ export default function HomePage() {
   const quickActions = [
     {
       label: '随机自测',
-      desc: '30题 / 45分钟',
+      desc: '100题 / 120分钟',
       icon: FileText,
       color: 'from-primary to-primary-dark',
       path: '/exam',

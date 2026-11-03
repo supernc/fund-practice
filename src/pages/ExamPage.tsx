@@ -40,17 +40,17 @@ export default function ExamPage() {
             <FileText size={36} className="text-white" />
           </div>
           <h2 className="text-2xl font-bold gradient-text mb-2">基金从业 · 随机自测</h2>
-          <p className="text-text-secondary mb-8">从现有练习题抽取 30 题自测；题量少于正式考试</p>
+          <p className="text-text-secondary mb-8">从原创模拟题中抽取 100 题，检验备考水平</p>
 
           <div className="grid grid-cols-3 gap-4 mb-6">
             <div className="bg-bg-card rounded-xl p-4">
               <FileText size={20} className="text-primary-light mx-auto mb-2" />
-              <div className="text-lg font-bold text-text-primary">30 题</div>
+              <div className="text-lg font-bold text-text-primary">100 题</div>
               <div className="text-xs text-text-secondary">全部为单选题</div>
             </div>
             <div className="bg-bg-card rounded-xl p-4">
               <Clock size={20} className="text-primary-cyan mx-auto mb-2" />
-              <div className="text-lg font-bold text-text-primary">45 分钟</div>
+              <div className="text-lg font-bold text-text-primary">120 分钟</div>
               <div className="text-xs text-text-secondary">考试时长</div>
             </div>
             <div className="bg-bg-card rounded-xl p-4">

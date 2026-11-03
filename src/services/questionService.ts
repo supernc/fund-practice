@@ -83,7 +83,7 @@ export function getRandomQuestionsFromIds(
 }
 
 // 模拟考试抽题：正式考试每科 100 题。subject=1 科目一 / 3 科目三 / 0 全部混合
-export const EXAM_QUESTION_COUNT = 30;
+export const EXAM_QUESTION_COUNT = 100;
 
 export function getExamQuestions(subject: 0 | 1 | 3 = 1): Question[] {
   const all = getAllQuestions();

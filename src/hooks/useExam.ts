@@ -4,7 +4,7 @@ import { generateExam, submitExam, isAnswerCorrect } from '../services/examServi
 import { addWrongQuestion, removeWrongQuestion, recordDailyAnswer, saveAnswerRecord } from '../services/storage';
 
 const EXAM_STATE_KEY = 'fund-exam-state';
-const EXAM_TIME = 45 * 60; // 45分钟自测
+const EXAM_TIME = 120 * 60; // 120分钟模拟考试
 
 export default function useExam() {
   // 记录本次考试的科目，用于交卷时标记（1 科目一 / 2 科目三 / 0 混合）
